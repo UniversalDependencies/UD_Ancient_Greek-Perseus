@@ -46,7 +46,7 @@
 
 # sent_id a_tree-grc-s3-root
 # orig_file_sentence 001#3
-1	Δαναὸς	Δαναός	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
+1	Δαναὸς	Δαναός	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	12	nsubj	_	_
 2	δὲ	δέ	PART	g	_	12	cc	_	LId=δέ-1
 3	πατὴρ	πατήρ	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	nmod	_	LId=πατήρ-1
 4	καὶ	καί	CONJ	c	_	3	cc	_	LId=καί-1
@@ -815,7 +815,7 @@
 # sent_id a_tree-grc-s45-root
 # orig_file_sentence 001#45
 1	ἆ	ἆ	INTJ	e	_	2	advmod:emph	_	LId=ἆ-1
-2	Ζήν	Ζεύς	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
+2	Ζήν	Ζεύς	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
 3	,	comma	PUNCT	u	_	2	punct	_	LId=comma-1
 4	̓Ιοῦς	̓Ιώ	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	LId=̓Ιώ-1
 5	ἰῷ	ἰός	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	7	nmod	_	_
@@ -879,7 +879,7 @@
 # sent_id a_tree-grc-s49-root
 # orig_file_sentence 001#49
 1	ἆ	ἆ	INTJ	e	_	2	advmod:emph	_	LId=ἆ-1
-2	Ζήν	Ζεύς	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
+2	Ζήν	Ζεύς	PROPN	n	Case=Voc|Gender=Masc|Number=Sing	0	root	_	_
 3	,	comma	PUNCT	u	_	2	punct	_	LId=comma-1
 4	̓Ιοῦς	̓Ιώ	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	LId=̓Ιώ-1
 5	ἰῶ	ἰός	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	8	nmod	_	_
@@ -1569,7 +1569,7 @@
 4	εὐλόγως	εὔλογος	ADV	d	_	5	advmod	_	_
 5	ἐπώνυμον	ἐπώνυμος	ADJ	a	Case=Nom|Gender=Neut|Number=Sing	6	amod	_	_
 6	γένος	γένος	NOUN	n	Case=Nom|Gender=Neut|Number=Sing	9	nsubjpass	_	_
-7	Πελασγῶν	Πελασγός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
+7	Πελασγῶν	Πελασγός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
 8	τήνδε	ὅδε	PRON	p	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	LId=ὅδε-1
 9	καρποῦται	καρπόω	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	0	root	_	LId=καρπόω-1
 10	χθόνα	χθών	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	9	dobj	_	LId=χθών-1
@@ -1604,7 +1604,7 @@
 5	Περραίβων	other	X	-	_	6	nmod	_	_
 6	χθόνα	χθών	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	1	dobj	_	LId=χθών-1
 7	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
-8	Πίνδου	Πίνδος	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
+8	Πίνδου	Πίνδος	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	_
 9	τε	τε	PART	g	_	6	cc	_	LId=τε-1
 10	τἀπέκεινα	ἐπέκεινα	ADV	d	_	6	conj	_	LId=ἐπέκεινα-1
 11	,	comma	PUNCT	u	_	12	punct	_	LId=comma-1
@@ -2048,7 +2048,7 @@
 2	μὴν	μήν	PART	g	_	6	advmod:emph	_	LId=μήν-1
 3	Κάνωβον	κάνωβος	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	6	dobj	_	_
 4	κἀπὶ	ἐπί	ADP	r	AdpType=Prep	3	cc	_	LId=ἐπί-1
-5	Μέμφιν	Μέμφις	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	_
+5	Μέμφιν	Μέμφις	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	_
 6	ἵκετο	ἱκνέομαι	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin	0	root	_	LId=ἱκνέομαι-1
 7	.	period	PUNCT	u	_	6	punct	_	LId=period-1
 
@@ -2068,7 +2068,7 @@
 1	τίς	τίς	PRON	p	Case=Nom|Gender=Masc|Number=Sing	5	nsubjpass	_	_
 2	οὖν	οὖν	PART	g	_	1	advmod:emph	_	LId=οὖν-1
 3	ὁ	ὁ	PRON	l	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	5	amod	_	LId=ὁ-1
-4	Δῖος	Ζεύς	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+4	Δῖος	Ζεύς	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 5	πόρτις	πόρτις	NOUN	n	Case=Acc|Gender=Fem|Number=Plur	0	root	_	_
 6	εὔχεται	εὔχομαι	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	5	cop	_	LId=εὔχομαι-1
 7	βοός	βοῦς	NOUN	n	Case=Gen|Number=Sing	5	nmod	_	_
@@ -2084,7 +2084,7 @@
 
 # sent_id a_tree-grc-s39-root
 # orig_file_sentence 002#39
-1	Λιβύη	Λιβύη	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LId=Λιβύη-1
+1	Λιβύη	Λιβύη	PROPN	n	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LId=Λιβύη-1
 2	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 3	μέγιστον	μέγας	ADJ	a	Case=Acc|Gender=Neut|Number=Sing	5	amod	_	_
 4	γῆς	γῆ	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	LId=γῆ-1
@@ -2105,7 +2105,7 @@
 
 # sent_id a_tree-grc-s41-root
 # orig_file_sentence 002#41
-1	Βῆλον	Βῆλος	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
+1	Βῆλον	Βῆλος	PROPN	n	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
 2	δίπαιδα	δίπαις	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	3	nmod	_	_
 3	πατέρα	πατήρ	NOUN	n	Case=Acc|Gender=Masc|Number=Sing	1	nmod	_	LId=πατήρ-1
 4	τοῦδ’	ὅδε	PRON	p	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LId=ὅδε-1
@@ -2146,7 +2146,7 @@
 
 # sent_id a_tree-grc-s45-root
 # orig_file_sentence 002#45
-1	Αἴγυπτος	Αἴγυπτος	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+1	Αἴγυπτος	Αἴγυπτος	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	.	period	PUNCT	u	_	1	punct	_	LId=period-1
 
 # sent_id a_tree-grc-s46-root
@@ -2195,7 +2195,7 @@
 # sent_id a_tree-grc-s50-root
 # orig_file_sentence 002#50
 1	ἄναξ	ἄναξ	NOUN	n	Case=Voc|Gender=Masc|Number=Sing	0	root	_	LId=ἄναξ-1
-2	Πελασγῶν	Πελασγός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
+2	Πελασγῶν	Πελασγός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
 3	,	comma	PUNCT	u	_	1	punct	_	LId=comma-1
 4	αἰόλ’	αἰόλος	ADJ	a	Case=Nom|Gender=Neut|Number=Plur	1	dep	_	_
 5	ἀνθρώπων	ἄνθρωπος	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	_
@@ -2256,7 +2256,7 @@
 2	μὴ	μή	CONJ	c	_	4	cc	_	LId=μή-1
 3	γένωμαι	γίγνομαι	VERB	v	Mood=Sub|Number=Sing|Person=1|Tense=Aor|VerbForm=Fin	4	cop	_	LId=γίγνομαι-1
 4	δμωὶς	δμωίς	NOUN	n	Case=Nom|Gender=Fem|Number=Sing	0	root	_	_
-5	Αἰγύπτου	Αἴγυπτος	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+5	Αἰγύπτου	Αἴγυπτος	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 6	γένει	γένος	NOUN	n	Case=Dat|Gender=Neut|Number=Sing	4	nmod	_	_
 7	.	period	PUNCT	u	_	4	punct	_	LId=period-1
 
@@ -2382,7 +2382,7 @@
 1	βαρύς	βαρύς	ADJ	a	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 2	γε	γε	PART	g	_	1	advmod:emph	_	LId=γε-1
 3	μέντοι	μέντοι	PART	g	_	1	dep	_	LId=μέντοι-1
-4	Ζηνὸς	Ζεύς	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
+4	Ζηνὸς	Ζεύς	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	_
 5	ἱκεσίου	ἱκέσιος	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	4	amod	_	_
 6	κότος	κότος	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	1	dep	_	_
 7	.	period	PUNCT	u	_	1	punct	_	LId=period-1
@@ -2678,7 +2678,7 @@
 2	τοι	τοι	PART	g	_	3	cc	_	LId=τοι-1
 3	κρατοῦσι	κρατέω	VERB	v	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	19	advcl	_	LId=κρατέω-1
 4	παῖδες	παῖς	NOUN	n	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	_
-5	Αἰγύπτου	Αἴγυπτος	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+5	Αἰγύπτου	Αἴγυπτος	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 6	σέθεν	σύ	PRON	p	Case=Gen|Number=Sing	3	dobj	_	LId=σύ-1
 7	νόμῳ	νόμος	NOUN	n	Case=Dat|Gender=Masc|Number=Sing	3	nmod	_	_
 8	πόλεως	πόλις	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
@@ -3359,7 +3359,7 @@
 3	αὖθ’	αὖτε	ADV	d	_	2	advmod:emph	_	LId=αὖτε-1
 4	ὁμαίμοις	ὅμαιμος	ADJ	a	Case=Dat|Gender=Masc|Number=Plur	5	amod	_	_
 5	παισὶν	παῖς	NOUN	n	Case=Dat|Gender=Masc|Number=Plur	13	dobj	_	_
-6	Αἰγύπτου	Αἴγυπτος	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+6	Αἰγύπτου	Αἴγυπτος	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 7	σέθεν	σύ	PRON	p	Case=Gen|Number=Sing	4	nmod	_	LId=σύ-1
 8	σταθεὶς	ἵστημι	VERB	t	Case=Nom|Gender=Masc|Number=Sing|Tense=Aor|VerbForm=Part|Voice=Pass	13	advcl	_	LId=ἵστημι-1
 9	πρὸ	πρό	ADP	r	AdpType=Prep	10	case	_	LId=πρό-1
@@ -3540,7 +3540,7 @@
 
 # sent_id a_tree-grc-s42-root
 # orig_file_sentence 003#42
-1	Νεῖλος	Νεῖλος	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+1	Νεῖλος	Νεῖλος	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 2	γὰρ	γάρ	PART	g	_	7	cc	_	LId=γάρ-1
 3	οὐχ	οὐ	ADV	d	_	4	neg	_	LId=οὐ-1
 4	ὅμοιον	ὅμοιος	ADJ	a	Case=Acc|Gender=Neut|Number=Sing	6	amod	_	_
@@ -3936,7 +3936,7 @@
 4	δι’	διά	ADP	r	AdpType=Prep	5	case	_	LId=διά-1
 5	αἴας	αἶα	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	dobj	_	LId=αἶα-1
 6	μηλοβότου	μηλόβοτος	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	7	amod	_	_
-7	Φρυγίας	Φρυγία	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	1	dobj	_	_
+7	Φρυγίας	Φρυγία	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	1	dobj	_	_
 8	διαμπάξ	διαμπάξ	ADV	d	_	7	case	_	LId=διαμπάξ-1
 9	.	period	PUNCT	u	_	1	punct	_	LId=period-1
 
@@ -3946,7 +3946,7 @@
 2	δὲ	δέ	PART	g	_	1	cc	_	LId=δέ-1
 3	Τεύθραντος	τεύθρας	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 4	ἄστυ	ἄστυ	NOUN	n	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	LId=ἄστυ-1
-5	Μυσῶν	Μυσός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
+5	Μυσῶν	Μυσός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	_
 6	,	comma	PUNCT	u	_	4	punct	_	LId=comma-1
 7	Λύδιά	Λύδιος	ADJ	a	Case=Acc|Gender=Neut|Number=Plur	9	amod	_	_
 8	τε	τε	PART	g	_	4	cc	_	LId=τε-1
@@ -3990,7 +3990,7 @@
 13	,	comma	PUNCT	u	_	15	punct	_	LId=comma-1
 14	ὅντ’	ὅστε	PRON	p	Case=Acc|Gender=Masc|Number=Sing	15	dobj	_	LId=ὅστε-1
 15	ἐπέρχεται	ἐπέρχομαι	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid,Pass	11	acl	_	LId=ἐπέρχομαι-1
-16	Τυφῶ	Τυφώς	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
+16	Τυφῶ	Τυφώς	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	17	nmod	_	_
 17	μένος	μένος	NOUN	n	Case=Nom|Gender=Neut|Number=Sing	15	nsubjpass	_	_
 18	,	comma	PUNCT	u	_	19	punct	_	LId=comma-1
 19	ὕδωρ	ὕδωρ	NOUN	n	Case=Acc|Gender=Neut|Number=Sing	1	dobj	_	LId=ὕδωρ-1
@@ -4067,7 +4067,7 @@
 10	πολύπλαγκτον	πολύπλαγκτος	ADJ	a	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
 11	ἀθλίαν	ἄθλιος	ADJ	a	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
 12	οἰστροδόνητον	οἰστροδόνητος	ADJ	a	Case=Acc|Gender=Fem|Number=Sing	13	amod	_	_
-13	̓Ιώ	Ἰώ	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	9	dobj	_	_
+13	̓Ιώ	Ἰώ	PROPN	n	Case=Acc|Gender=Fem|Number=Sing	9	dobj	_	_
 14	;	other	PUNCT	-	_	5	punct	_	_
 
 # sent_id a_tree-grc-s79-root
@@ -4361,7 +4361,7 @@
 5	ἡμῶν	ἡμός	ADJ	a	Case=Gen|Gender=Masc|Number=Plur	3	amod	_	_
 6	λέγων	λέγω	VERB	t	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	advcl	_	LId=λέγω-3
 7	ἄναξ	ἄναξ	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LId=ἄναξ-1
-8	Πελασγῶν	Πελασγός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+8	Πελασγῶν	Πελασγός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 9	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 10	ἱκεσίου	ἱκέσιος	ADJ	a	Case=Gen|Gender=Masc|Number=Sing	11	amod	_	_
 11	Ζηνὸς	ζεύς	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	12	nmod	_	_
@@ -6464,7 +6464,7 @@
 2	ἂν	ἄν	PART	g	_	1	cc	_	LId=ἄν-1
 3	ἐλθὼν	ἔρχομαι	VERB	t	Case=Nom|Gender=Masc|Number=Sing|Tense=Aor|VerbForm=Part|Voice=Act	1	advcl	_	LId=ἔρχομαι-1
 4	παισὶν	παῖς	NOUN	n	Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	_
-5	Αἰγύπτου	Αἴγυπτος	NOUN	n	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
+5	Αἰγύπτου	Αἴγυπτος	PROPN	n	Case=Gen|Gender=Masc|Number=Sing	4	nmod	_	_
 6	τάδε	ὅδε	PRON	p	Case=Acc|Gender=Neut|Number=Plur	1	dobj	_	LId=ὅδε-1
 7	.	period	PUNCT	u	_	1	punct	_	LId=period-1
 
@@ -6795,7 +6795,7 @@
 5	βρύοις	βρύω	VERB	v	Mood=Opt|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=βρύω-1
 6	,	comma	PUNCT	u	_	7	punct	_	LId=comma-1
 7	δῖε	δῖος	ADJ	a	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	_
-8	Πελασγῶν	Πελασγός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+8	Πελασγῶν	Πελασγός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
 9	.	period	PUNCT	u	_	5	punct	_	LId=period-1
 
 # sent_id a_tree-grc-s81-root
@@ -6868,7 +6868,7 @@
 16	ἐφ’	ἐπί	ADP	r	AdpType=Prep	17	case	_	LId=ἐπί-1
 17	ἑκάστῃ	ἕκαστος	ADJ	a	Case=Dat|Gender=Fem|Number=Sing	18	iobj	_	_
 18	διεκλήρωσεν	διακληρόω	VERB	v	Mood=Ind|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	14	acl	_	LId=διακληρόω-1
-19	Δαναὸς	Δαναός	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+19	Δαναὸς	Δαναός	PROPN	n	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
 20	θεραποντίδα	θεραποντίς	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	21	nmod	_	_
 21	φερνήν	φερνή	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	18	dobj	_	LId=φερνή-1
 22	.	period	PUNCT	u	_	9	punct	_	LId=period-1
@@ -7218,7 +7218,7 @@
 2	δὲ	δέ	PART	g	_	6	cc	_	LId=δέ-1
 3	πόλιν	πόλις	NOUN	n	Case=Acc|Gender=Fem|Number=Sing	6	dobj	_	_
 4	τήνδε	ὅδε	PRON	p	Case=Acc|Gender=Fem|Number=Sing	3	nmod	_	LId=ὅδε-1
-5	Πελασγῶν	Πελασγός	NOUN	n	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
+5	Πελασγῶν	Πελασγός	PROPN	n	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	_
 6	ἐχέτω	ἔχω	VERB	v	Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	LId=ἔχω-1
 7	,	comma	PUNCT	u	_	6	punct	_	LId=comma-1
 8	μη	μηδέ	PART	g	_	10	neg	_	LId=μηδέ-1
@@ -7265,7 +7265,7 @@
 11	ἀνάγκας	ἀνάγκη	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	LId=ἀνάγκη-1
 12	γάμος	γάμος	NOUN	n	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 13	ἔλθοι	ἔρχομαι	VERB	v	Mood=Opt|Number=Sing|Person=3|Tense=Aor|VerbForm=Fin|Voice=Act	1	conj	_	LId=ἔρχομαι-1
-14	Κυθερείας	Κυθέρεια	NOUN	n	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	LId=Κυθέρεια-1
+14	Κυθερείας	Κυθέρεια	PROPN	n	Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	LId=Κυθέρεια-1
 15	:	other	PUNCT	-	_	1	punct	_	_
 
 # sent_id a_tree-grc-s9-root
