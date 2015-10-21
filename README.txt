@@ -36,7 +36,7 @@ identical.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
-Data source: automatic conversion
+Data source: automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
 ===============================================================================
