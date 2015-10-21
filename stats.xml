@@ -7,6 +7,9 @@
   <size>
     <total><sentences>21173</sentences><tokens>309082</tokens><words>309082</words><fused>0</fused></total>
   </size>
+  <lemmas unique="13859" /><!-- comma, δέ, punc, period, ὁ, καί, τε, ἐγώ, οὐ, εἰμί, ἐν, σύ, ὅς, ὡς, μέν -->
+  <forms unique="46979" /><!-- ,, ., :, δ’, καὶ, δὲ, τε, οὐ, μὲν, ἐν, δέ, τ’, γὰρ, ", ὣς -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="15">
     <tag name="ADJ">37796</tag><!-- πᾶς, αὐτός, πολύς, μέγας, ἄλλος, φίλος, κακός, οὗτος, ̓αχαιός, ἐμός -->
