@@ -50,11 +50,11 @@ The data have been roughly divided thus: 80% training set, 10% dev set, and
 
 BASIC STATISTICS
 
-Tree count:  9757
-Word count:  137426
-Token count: 137426
-Dep. relations: 24 of which 0 language specific
-POS tags: 12
+Tree count:  16221
+Word count:  244993
+Token count: 244993
+Dep. relations: 26 of which 0 language specific
+POS tags: 13
 Category=value feature pairs: 33
 
 ACKNOWLEDGEMENTS
