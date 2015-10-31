@@ -70,7 +70,6 @@ Polina Yordanova, and Sam Zukoff.
 Bridget Almas has provided invaluable help for the annotation environment
 (http://sosol.perseids.org/)
 
-
 REFERENCES TO USE:
 
 Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency 
@@ -82,7 +81,7 @@ The Ancient Greek Dependency treebank 2.0. https://github.com/PerseusDL/treebank
 
 === Machine-readable metadata =================================================
 Documentation status: partial
-Data source: semi-automatic
+Data source: automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
 Genre: Literature
