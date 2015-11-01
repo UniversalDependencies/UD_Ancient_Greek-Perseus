@@ -1,15 +1,15 @@
 # UD Ancient Greek
 
-The data is a selection from the Ancient Greek Dependency Treebank 2 
-currently developed at the Humboldt Chair in DH (Prof. Gregory Crane), 
-Leipzig University. The treebank contains literary texts of different genres. 
-The original annotations and full documentation 
+The data is a selection from the Ancient Greek Dependency Treebank 2
+currently developed at the Humboldt Chair in DH (Prof. Gregory Crane),
+Leipzig University. The treebank contains literary texts of different genres.
+The original annotations and full documentation
 concerning texts, tagsets, and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.0/
 
-The data have been converted by Giuseppe G. A. Celano. The present release 
-contains extracts from the following texts: 
+The data have been converted by Giuseppe G. A. Celano. The present release
+contains extracts from the following texts:
 
 Aesop, Fabulae
 Aeschylus, Agamemnon
@@ -45,8 +45,8 @@ Thucydides, Histories
 
 DATA SPLIT
 
-The data have been roughly divided thus: 80% training set, 10% dev set, and 
-10% test set. 
+The data have been roughly divided thus: 80% training set, 10% dev set, and
+10% test set.
 
 BASIC STATISTICS
 
@@ -72,11 +72,11 @@ Bridget Almas has provided invaluable help for the annotation environment
 
 REFERENCES TO USE:
 
-Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency 
-Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou 
+Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency
+Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou
 (eds.), Language Technology for Cultural Heritage, 79-98.
 
-Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014. 
+Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014.
 The Ancient Greek Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
 
 === Machine-readable metadata =================================================
@@ -84,6 +84,6 @@ Documentation status: partial
 Data source: automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
-Genre: Literature
+Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
 ===============================================================================
