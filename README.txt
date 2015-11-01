@@ -1,15 +1,38 @@
 # UD Ancient Greek
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+The data is a selection from the Ancient Greek Dependency Treebank 2 
+currently developed at the Humboldt Chair in DH (Prof. Gregory Crane), 
+Leipzig University. The data have been converted by Giuseppe G. A. Celano.
+The treebank contains literary texts of different genres. 
+The original annotations and documentation 
+=======
+>>>>>>> Stashed changes
 The data is a selection from the Ancient Greek Dependency Treebank 2
 currently developed at the Humboldt Chair in DH (Prof. Gregory Crane),
 Leipzig University. The treebank contains literary texts of different genres.
 The original annotations and full documentation
+<<<<<<< Updated upstream
+=======
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 concerning texts, tagsets, and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.0/
 
+<<<<<<< Updated upstream
 The data have been converted by Giuseppe G. A. Celano. The present release
 contains extracts from the following texts:
+=======
+<<<<<<< HEAD
+The present release contains (parts of) the following texts: 
+=======
+The data have been converted by Giuseppe G. A. Celano. The present release
+contains extracts from the following texts:
+>>>>>>> origin/master
+>>>>>>> Stashed changes
 
 Aesop, Fabulae
 Aeschylus, Agamemnon
@@ -67,17 +90,22 @@ Daniel Lim Libatique, Meg Luthin, Francesco Mambrini, George Matthews,
 Jack Mitchell, Molly Miller, Jessica Nord, Sean Stewart, Anthony D. Yates,
 Polina Yordanova, and Sam Zukoff.
 
-Bridget Almas has provided invaluable help for the annotation environment
-(http://sosol.perseids.org/)
-
 REFERENCES TO USE:
 
 Bamman, David and Gregory Crane. 2011. The Ancient Greek and Latin Dependency
 Treebanks. 2011. In Caroline Sporleder, Antal van den Bosch, Kalliopi Zervanou
 (eds.), Language Technology for Cultural Heritage, 79-98.
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014. 
+The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
+=======
+>>>>>>> Stashed changes
 Celano, Giuseppe G. A., Gregory Crane, and Bridget Almas. 2014.
 The Ancient Greek Dependency treebank 2.0. https://github.com/PerseusDL/treebank_data
+>>>>>>> origin/master
 
 === Machine-readable metadata =================================================
 Documentation status: partial
