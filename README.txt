@@ -82,5 +82,5 @@ Data available since: UD v2.0
 License: CC BY-NC-SA 2.5
 Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
-Contact: giuseppegacelano@gmail.com
+Contact: celano@informatik.uni-leipzig.de
 ===============================================================================
