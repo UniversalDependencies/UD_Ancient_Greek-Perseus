@@ -45,10 +45,10 @@ Thucydides, Histories
 
 BASIC STATISTICS
 
-Tree count:  16221
-Word count:  244993
-Token count: 244993
-Dep. relations: 26 of which 0 language specific
+Tree count:  13919
+Word count:  202989
+Token count: 202989
+Dep. relations: 25 of which 0 language specific
 POS tags: 13
 Category=value feature pairs: 33
 
