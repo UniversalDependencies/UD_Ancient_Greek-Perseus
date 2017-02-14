@@ -27,12 +27,11 @@ Herodotus, Histories
 Hesiod, Shield of Heracles
 Hesiod, Theogony
 Hesiod, Works and Days
-Homer, Odyssey
+Homer, Iliad
 Lysias, Against Pancleon
 Lysias, Alcybiades 1
 Lysias, Alcybiades 2
 Lysias, On the Murder of Eratosthenes
-Plato, Euthyphro
 Plutarch, Alcibiades
 Plutarch, Lycurgus
 Plybius, Histories
@@ -42,11 +41,6 @@ Sophocles, Electra
 Sophocles, Oedipus Tyrannus
 Sophocles, Trachinae
 Thucydides, Histories
-
-DATA SPLIT
-
-The data have been roughly divided thus: 80% training set, 10% dev set, and
-10% test set.
 
 BASIC STATISTICS
 
