@@ -7,7 +7,7 @@ The treebank contains literary texts of different genres.
 The original annotations and documentation concerning texts, tagsets,
 and guidelines can be found at:
 
-https://github.com/PerseusDL/treebank_data/tree/master/v2.0/
+https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek
 
 The present release contains (parts of) the following texts:
 
@@ -35,6 +35,7 @@ Lysias, On the Murder of Eratosthenes
 Plutarch, Alcibiades
 Plutarch, Lycurgus
 Plybius, Histories
+Pseudo-Homer Hymn to Demeter
 Sophocles, Ajax
 Sophocles, Antigone
 Sophocles, Electra
@@ -72,12 +73,12 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 ### Changelog
 
-No change since UD v1.2.
+No major change since UD v1.2.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
 Data source: automatic
-Data available since: UD v1.2
+Data available since: UD v2
 License: CC BY-NC-SA 2.5
 Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
