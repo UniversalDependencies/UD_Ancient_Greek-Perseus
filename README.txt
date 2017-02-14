@@ -78,9 +78,9 @@ No major change since UD v1.2.
 === Machine-readable metadata =================================================
 Documentation status: partial
 Data source: automatic
-Data available since: UD v2
+Data available since: UD v2.0
 License: CC BY-NC-SA 2.5
 Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
-Contact:
+Contact: giuseppegacelano@gmail.com
 ===============================================================================
