@@ -49,7 +49,7 @@ Tree count:  13919
 Word count:  202989
 Token count: 202989
 Dep. relations: 25 of which 0 language specific
-POS tags: 13
+POS tags: 14
 Category=value feature pairs: 33
 
 ACKNOWLEDGEMENTS
