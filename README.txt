@@ -9,7 +9,7 @@ and guidelines can be found at:
 
 https://github.com/PerseusDL/treebank_data/tree/master/v2.0/
 
-The present release contains parts automatically selected from the following texts:
+The present release contains (parts of) the following texts:
 
 Aesop, Fabulae
 Aeschylus, Agamemnon
