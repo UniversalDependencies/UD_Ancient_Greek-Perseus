@@ -1,3 +1,4 @@
+# newdoc id = tlg0003.tlg001.perseus-grc1.1.tb.xml
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@3
 # text = τὰ γὰρ πρὸ αὐτῶν καὶ τὰ ἔτι παλαίτερα σαφῶς μὲν εὑρεῖν διὰ χρόνου πλῆθος ἀδύνατα ἦν, ἐκ δὲ τεκμηρίων ὧν ἐπὶ μακρότατον σκοποῦντί μοι πιστεῦσαι ξυμβαίνει οὐ μεγάλα νομίζω γενέσθαι οὔτε κατὰ τοὺς πολέμους οὔτε ἐς τὰ ἄλλα.
 1	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	11	det	_	_
@@ -11990,6 +11991,7 @@
 10	πολεμεῖν	πολεμέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	8	acl	_	SpaceAfter=No
 11	.	.	PUNCT	u--------	_	3	punct	_	_
 
+# newdoc id = tlg0007.tlg004.perseus-grc1.tb.xml
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@2
 # text = οἱ μὲν γάρ Ἰφίτῳ συνακμάσαι καὶ συνδιαθεῖναι τὴν Ὀλυμπιακὴν ἐκεχειρίαν λέγουσιν αὐτόν, ὧν ἐστι καὶ Ἀριστοτέλης ὁ φιλόσοφος, τεκμήριον προσφέρων τὸν Ὀλυμπίασι δίσκον ἐν ᾧ τοὔνομα τοῦ Λυκούργου διασώζεται καταγεγραμμένον·
 1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	det	_	_
@@ -17778,6 +17780,7 @@
 6	ἐξέλιπεν	ἐκλείπω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	6	punct	_	_
 
+# newdoc id = tlg0007.tlg015.perseus-grc1.tb.xml
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@1
 # text = τὸ Ἀλκιβιάδου γένος ἄνωθεν Εὐρυσάκην τὸν Αἴαντος ἀρχηγὸν ἔχειν δοκεῖ, πρὸς δὲ μητρὸς Ἀλκμαιωνίδης ἦν, ἐκ Δεινομάχης γεγονὼς τῆς Μεγακλέους.
 1	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	3	det	_	_
@@ -23474,6 +23477,7 @@
 19	γενομένην	γίγνομαι	VERB	v-sapmfa-	Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	9	conj	_	SpaceAfter=No
 20	.	.	PUNCT	u--------	_	2	punct	_	_
 
+# newdoc id = tlg0008.tlg001.perseus-grc1.12.tb.xml
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@1
 # text = Ἀνθρωπος εἶναί μοι Κυρηναῖος δοκεῖς, κατὰ τὸν Ἀλέξιδος Τυνδάρεων, ἑταῖρε Τιμόκρατες·
 1	Ἀνθρωπος	̓́Ανθρωπος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	obj	_	_
