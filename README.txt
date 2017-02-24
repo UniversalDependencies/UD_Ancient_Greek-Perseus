@@ -7,9 +7,9 @@ The treebank contains literary texts of different genres.
 The original annotations and documentation concerning texts, tagsets,
 and guidelines can be found at:
 
-https://github.com/PerseusDL/treebank_data/tree/master/v2.0/
+https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek
 
-The present release contains (parts of) the following texts:
+The present release contains parts automatically selected from the following texts:
 
 Aesop, Fabulae
 Aeschylus, Agamemnon
@@ -27,15 +27,15 @@ Herodotus, Histories
 Hesiod, Shield of Heracles
 Hesiod, Theogony
 Hesiod, Works and Days
-Homer, Odyssey
+Homer, Iliad
 Lysias, Against Pancleon
 Lysias, Alcybiades 1
 Lysias, Alcybiades 2
 Lysias, On the Murder of Eratosthenes
-Plato, Euthyphro
 Plutarch, Alcibiades
 Plutarch, Lycurgus
 Plybius, Histories
+Pseudo-Homer Hymn to Demeter
 Sophocles, Ajax
 Sophocles, Antigone
 Sophocles, Electra
@@ -43,18 +43,13 @@ Sophocles, Oedipus Tyrannus
 Sophocles, Trachinae
 Thucydides, Histories
 
-DATA SPLIT
-
-The data have been roughly divided thus: 80% training set, 10% dev set, and
-10% test set.
-
 BASIC STATISTICS
 
-Tree count:  16221
-Word count:  244993
-Token count: 244993
-Dep. relations: 26 of which 0 language specific
-POS tags: 13
+Tree count:  13919
+Word count:  202989
+Token count: 202989
+Dep. relations: 25 of which 0 language specific
+POS tags: 14
 Category=value feature pairs: 33
 
 ACKNOWLEDGEMENTS
@@ -78,14 +73,14 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 ### Changelog
 
-No change since UD v1.2.
+No major change since UD v1.2.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
 Data source: automatic
-Data available since: UD v1.2
+Data available since: UD v2.0
 License: CC BY-NC-SA 2.5
 Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
-Contact:
+Contact: celano@informatik.uni-leipzig.de
 ===============================================================================
