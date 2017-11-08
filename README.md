@@ -25,8 +25,9 @@ Further details can be found at:
 
 The release contains parts of the following works:
 
-| Aesop | Fabulae |
+| author | work |
 | --- | --- |
+| Aesop | Fabulae |
 | Aeschylus | Agamemnon |
 | Aeschylus | Eumenides |
 | Aeschylus | Libation Bearers |
