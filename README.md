@@ -1,19 +1,19 @@
 # Summary
 
-This Universal Dependencies Ancient Greek Treebank consists of an automatic 
-conversion of a selection of passages from the Ancient Greek and Latin 
+This Universal Dependencies Ancient Greek Treebank consists of an automatic
+conversion of a selection of passages from the Ancient Greek and Latin
 Dependency Treebank 2.1
 
 # Introduction
 
-The current UD treebank derives from texts taken from 
+The current UD treebank derives from texts taken from
 the Ancient Greek and Latin Dependency Treebank 2.1 available at
 
 * https://github.com/PerseusDL/treebank_data/tree/master/v2.1/Greek
 
 The original data have been semi-automatically annotated. More precisely,
 morphological annotation and lemmatization have been performed with the help of
-the Morpheus morphological analyzer, while syntactic annotation has been done 
+the Morpheus morphological analyzer, while syntactic annotation has been done
 manually. The following guidelines have been followed:
 
 * http://nlp.perseus.tufts.edu/syntax/treebank/agdt/1.7/docs/guidelines.pdf
@@ -61,12 +61,12 @@ The release contains parts of the following works:
 
 # Acknowledgement
 
-The current UD data have been converted by Giuseppe G. A. Celano. 
+The current UD data have been converted by Giuseppe G. A. Celano.
 
 The Ancient Greek and Latin treebank is a result of a joint effort between
 Tufts University and Leipzig University (DH) under the supervision of Prof.
-Gregory Crane. Current editors of the treebank are Giuseppe G. A. Celano, 
-Gregory Crane, and Bridget Almas. 
+Gregory Crane. Current editors of the treebank are Giuseppe G. A. Celano,
+Gregory Crane, and Bridget Almas.
 
 Authors of the annotations are (in alphabetical order):
 
@@ -100,7 +100,8 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 # Changelog
 
-No major change since UD v1.2.
+* 2018-04-15 v2.2
+  * Repository renamed from UD_Ancient_Greek to UD_Ancient_Greek-Perseus.
 
 === Machine-readable metadata =================================================
 Documentation status: partial
