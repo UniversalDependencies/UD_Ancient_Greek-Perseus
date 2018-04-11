@@ -1,14 +1,10 @@
-Sun Feb 11 20:28:06 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Ancient_Greek
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 95f84696ecc537764b7772395d073132bd715b77
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Ancient_Greek:
-commit 09e46c52c9c54ec9a6c04e6cbf2747d7c7f1a052
-Merge: 6a84973 4e8b26a
+Date:   Wed Apr 11 08:54:01 2018 +0200
+Evaluating the following revision of UD_Ancient_Greek-Perseus:
+commit 30b96521fcf8d02e73eed466c8f32c3f86e90620
+Merge: edcd599 077a4ca
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 202989 of 202989 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.626303580763.
@@ -23,20 +19,25 @@ Features: 124893 out of 202989 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 25 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
-Udapi: found 33788 bugs.
+Udapi: found 0 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 202989 words.
 Genres: found 1 out of 14 known.
 Availability: README does not say Includes text: yes
+validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
+*** PASSED ***
+validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
+*** PASSED ***
+validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.0714285714285714) = 0.00549450549450549
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
 (weight=0.256410256410256) * (score{size}=0.769157501359021) = 0.197219872143339
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.0823529411764706) = 0.00633484162895928
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.0675675675675676) = 0.0051975051975052
-(TOTAL score=0.330144160361745) * (availability=0.1) * (validity=1) = 0.0330144160361745
-STARS = 0
-UD_Ancient_Greek	0.0330144160361745	0
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+(TOTAL score=0.634759544977129) * (availability=0.1) * (validity=1) = 0.0634759544977129
+STARS = 0.5
+UD_Ancient_Greek-Perseus	0.0634759544977129	0.5
