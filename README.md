@@ -104,9 +104,7 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
   * Repository renamed from UD_Ancient_Greek to UD_Ancient_Greek-Perseus.
 
 === Machine-readable metadata =================================================
-Documentation status: partial
-Data source: automatic
-Data available since: UD v2.0
+Data available since: UD v1.2
 License: CC BY-NC-SA 2.5
 Genre: fiction
 Contributors: Celano, Giuseppe G. A.; Zeman, Daniel
