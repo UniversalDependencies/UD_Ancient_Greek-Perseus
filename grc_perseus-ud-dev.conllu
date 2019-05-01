@@ -111,7 +111,7 @@
 18	·	·	PUNCT	u--------	_	17	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@10
-# text = ἐκ γὰρ τῆς ἄλλης Ἑλλάδος οἱ πολέμῳ ἢ στάσει ἐκπίπτοντες παῤ Ἀθηναίους οἱ δυνατώτατοι ὡς βέβαιον ὂν ἀνεχώρουν, καὶ πολῖται γιγνόμενοι εὐθὺς ἀπὸ παλαιοῦ μείζω ἔτι ἐποίησαν πλήθει ἀνθρώπων τὴν πόλιν, ὥστε καὶ ἐς Ἰωνίαν ὕστερον ὡς οὐχ ἱκανῆς οὔσης τῆς Ἀττικῆς ἀποικίας ἐξέπεμψαν.
+# text = ἐκ γὰρ τῆς ἄλλης Ἑλλάδος οἱ πολέμῳ ἢ στάσει ἐκπίπτοντες παῤ Ἀθηναίους οἱ δυνατώτατοι ὡς βέβαιον ὂν ἀνεχώρουν, καὶ πολῖται γιγνόμενοι εὐθὺς ἀπὸ παλαιοῦ μείζω ἔτι ἐποίησαν πλήθει ἀνθρώπων τὴν πόλιν, ὥστε καὶ ἐς Ἰωνίαν ὕστερον ὡς οὐχ ἱκανῆς οὔσης τῆς Ἀττικῆς ἀποικίας ἐξέπεμψαν.
 1	ἐκ	ἐκ	ADP	r--------	_	5	case	_	_
 2	γὰρ	γάρ	ADV	d--------	_	18	advmod	_	_
 3	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	det	_	_
@@ -122,7 +122,7 @@
 8	ἢ	ἤ	CCONJ	c--------	_	7	cc	_	_
 9	στάσει	στάσις	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	7	conj	_	_
 10	ἐκπίπτοντες	ἐκπίτνω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	nmod	_	_
-11	παῤ	παρά	ADP	r--------	_	12	case	_	_
+11	παῤ	παρά	ADP	r--------	_	12	case	_	_
 12	Ἀθηναίους	Ἀθήναιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obl	_	_
 13	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	14	det	_	_
 14	δυνατώτατοι	δυνατός	ADJ	a-p---mns	Case=Nom|Degree=Sup|Gender=Masc|Number=Plur	18	nsubj	_	_
@@ -265,7 +265,7 @@
 21	.	.	PUNCT	u--------	_	5	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@17
-# text = οἱ δ̓ οὖν ὡς ἕκαστοι Ἕλληνες κατὰ πόλεις τε ὅσοι ἀλλήλων ξυνίεσαν καὶ ξύμπαντες ὕστερον κληθέντες οὐδὲν πρὸ τῶν Τρωικῶν δἰ ἀσθένειαν καὶ ἀμειξίαν ἀλλήλων ἁθρόοι ἔπραξαν.
+# text = οἱ δ̓ οὖν ὡς ἕκαστοι Ἕλληνες κατὰ πόλεις τε ὅσοι ἀλλήλων ξυνίεσαν καὶ ξύμπαντες ὕστερον κληθέντες οὐδὲν πρὸ τῶν Τρωικῶν δἰ ἀσθένειαν καὶ ἀμειξίαν ἀλλήλων ἁθρόοι ἔπραξαν.
 1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	6	det	_	_
 2	δ̓	δέ	ADV	d--------	_	27	advmod	_	_
 3	οὖν	οὖν	ADV	d--------	_	27	advmod	_	_
@@ -286,7 +286,7 @@
 18	πρὸ	πρό	ADP	r--------	_	20	case	_	_
 19	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	det	_	_
 20	Τρωικῶν	Τρωικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	27	obl	_	_
-21	δἰ	διά	ADP	r--------	_	22	case	_	_
+21	δἰ	διά	ADP	r--------	_	22	case	_	_
 22	ἀσθένειαν	ἀσθένεια	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	27	obl	_	_
 23	καὶ	καί	CCONJ	c--------	_	22	cc	_	_
 24	ἀμειξίαν	ἀμιξία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	22	conj	_	_
@@ -852,9 +852,9 @@
 19	.	.	PUNCT	u--------	_	11	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@65
-# text = ἀλλὰ δἰ ἀχρηματίαν τά τε πρὸ τούτων ἀσθενῆ ἦν καὶ αὐτά γε δὴ ταῦτα, ὀνομαστότατα τῶν πρὶν γενόμενα, δηλοῦται τοῖς ἔργοις ὑποδεέστερα ὄντα τῆς φήμης καὶ τοῦ νῦν περὶ αὐτῶν διὰ τοὺς ποιητὰς λόγου κατεσχηκότος·
+# text = ἀλλὰ δἰ ἀχρηματίαν τά τε πρὸ τούτων ἀσθενῆ ἦν καὶ αὐτά γε δὴ ταῦτα, ὀνομαστότατα τῶν πρὶν γενόμενα, δηλοῦται τοῖς ἔργοις ὑποδεέστερα ὄντα τῆς φήμης καὶ τοῦ νῦν περὶ αὐτῶν διὰ τοὺς ποιητὰς λόγου κατεσχηκότος·
 1	ἀλλὰ	ἀλλά	ADV	d--------	_	8	advmod	_	_
-2	δἰ	διά	ADP	r--------	_	3	case	_	_
+2	δἰ	διά	ADP	r--------	_	3	case	_	_
 3	ἀχρηματίαν	ἀχρηματία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
 4	τά	ὁ	DET	l-p---nn-	Case=Nom|Gender=Neut|Number=Plur	8	det	_	_
 5	τε	τε	ADV	d--------	_	8	advmod	_	_
@@ -1499,7 +1499,7 @@
 14	.	.	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@113
-# text = οἱ γὰρ ἄνθρωποι τὰς ἀκοὰς τῶν προγεγενημένων, καὶ ἢν ἐπιχώρια σφίσιν ᾖ, ὁμοίως ἀβασανίστως παῤ ἀλλήλων δέχονται.
+# text = οἱ γὰρ ἄνθρωποι τὰς ἀκοὰς τῶν προγεγενημένων, καὶ ἢν ἐπιχώρια σφίσιν ᾖ, ὁμοίως ἀβασανίστως παῤ ἀλλήλων δέχονται.
 1	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	3	det	_	_
 2	γὰρ	γάρ	ADV	d--------	_	19	advmod	_	_
 3	ἄνθρωποι	ἄνθρωπος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	_
@@ -1516,7 +1516,7 @@
 14	,	,	PUNCT	u--------	_	10	punct	_	_
 15	ὁμοίως	ὁμοῖος	ADV	d--------	_	19	advmod	_	_
 16	ἀβασανίστως	ἀβασάνιστος	ADV	d--------	_	19	advmod	_	_
-17	παῤ	παρά	ADP	r--------	_	18	case	_	_
+17	παῤ	παρά	ADP	r--------	_	18	case	_	_
 18	ἀλλήλων	ἀλλήλων	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	19	obl	_	_
 19	δέχονται	δέχομαι	VERB	v3ppie---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 20	.	.	PUNCT	u--------	_	19	punct	_	_
@@ -2632,13 +2632,13 @@
 11	·	·	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@198
-# text = ναυτικόν τε κεκτήμεθα πλὴν τοῦ παῤ ὑμῖν πλεῖστον.
+# text = ναυτικόν τε κεκτήμεθα πλὴν τοῦ παῤ ὑμῖν πλεῖστον.
 1	ναυτικόν	ναυτικός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
 2	τε	τε	ADV	d--------	_	3	advmod	_	_
 3	κεκτήμεθα	κτάομαι	VERB	v1prie---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
 4	πλὴν	πλήν	ADP	r--------	_	5	case	_	_
 5	τοῦ	ὁ	DET	l-s---ng-	Case=Gen|Gender=Neut|Number=Sing	8	det	_	_
-6	παῤ	παρά	ADP	r--------	_	7	case	_	_
+6	παῤ	παρά	ADP	r--------	_	7	case	_	_
 7	ὑμῖν	σύ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	_
 8	πλεῖστον	πλεῖστος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	1	nmod	_	SpaceAfter=No
 9	.	.	PUNCT	u--------	_	3	punct	_	_
@@ -2722,7 +2722,7 @@
 12	·	·	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@211
-# text = εἴρηται γὰρ ἐν αὐταῖς, τῶν Ἑλληνίδων πόλεων ἥτις μηδαμοῦ ξυμμαχεῖ, ἐξεῖναι παῤ ὁποτέρους ἂν ἀρέσκηται ἐλθεῖν.
+# text = εἴρηται γὰρ ἐν αὐταῖς, τῶν Ἑλληνίδων πόλεων ἥτις μηδαμοῦ ξυμμαχεῖ, ἐξεῖναι παῤ ὁποτέρους ἂν ἀρέσκηται ἐλθεῖν.
 1	εἴρηται	ἐρῶ	VERB	v3srie---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
 2	γὰρ	γάρ	ADV	d--------	_	1	advmod	_	_
 3	ἐν	ἐν	ADP	r--------	_	4	case	_	_
@@ -2736,7 +2736,7 @@
 11	ξυμμαχεῖ	συμμαχέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	csubj	_	SpaceAfter=No
 12	,	,	PUNCT	u--------	_	11	punct	_	_
 13	ἐξεῖναι	ἔξεστι	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	1	csubj	_	_
-14	παῤ	παρά	ADP	r--------	_	17	case	_	_
+14	παῤ	παρά	ADP	r--------	_	17	case	_	_
 15	ὁποτέρους	ὁπότερος	ADJ	a-p---ma-	Case=Acc|Gender=Masc|Number=Plur	17	obj	_	_
 16	ἂν	ἄν	ADV	d--------	_	17	advmod	_	_
 17	ἀρέσκηται	ἀρέσκω	VERB	v3spse---	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	advcl	_	_
@@ -3005,7 +3005,7 @@
 18	·	·	PUNCT	u--------	_	17	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@257
-# text = ἡμεῖς δὲ περιπεπτωκότες οἷς ἐν τῇ Λακεδαίμονι αὐτοὶ προείπομεν, τοὺς σφετέρους ξυμμάχους αὐτόν τινα κολάζειν, νῦν παῤ ὑμῶν τὸ αὐτὸ ἀξιοῦμεν κομίζεσθαι, καὶ μὴ τῇ ἡμετέρᾳ ψήφῳ ὠφεληθέντας τῇ ὑμετέρᾳ ἡμᾶς βλάψαι.
+# text = ἡμεῖς δὲ περιπεπτωκότες οἷς ἐν τῇ Λακεδαίμονι αὐτοὶ προείπομεν, τοὺς σφετέρους ξυμμάχους αὐτόν τινα κολάζειν, νῦν παῤ ὑμῶν τὸ αὐτὸ ἀξιοῦμεν κομίζεσθαι, καὶ μὴ τῇ ἡμετέρᾳ ψήφῳ ὠφεληθέντας τῇ ὑμετέρᾳ ἡμᾶς βλάψαι.
 1	ἡμεῖς	ἐγώ	PRON	p1p---mn-	Case=Nom|Gender=Masc|Number=Plur|Person=1	9	nsubj	_	_
 2	δὲ	δέ	ADV	d--------	_	23	advmod	_	_
 3	περιπεπτωκότες	περιπίπτω	VERB	v-prpamn-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	23	advcl	_	_
@@ -3024,7 +3024,7 @@
 16	κολάζειν	κολάζω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	appos	_	SpaceAfter=No
 17	,	,	PUNCT	u--------	_	9	punct	_	_
 18	νῦν	νῦν	ADV	d--------	_	23	advmod	_	_
-19	παῤ	παρά	ADP	r--------	_	20	case	_	_
+19	παῤ	παρά	ADP	r--------	_	20	case	_	_
 20	ὑμῶν	σύ	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	24	obl	_	_
 21	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	det	_	_
 22	αὐτὸ	αὐτός	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
@@ -3213,10 +3213,10 @@
 18	.	.	PUNCT	u--------	_	12	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@275
-# text = ἐξίησι δὲ παῤ αὐτὴν Ἀχερουσία λίμνη ἐς θάλασσαν·
+# text = ἐξίησι δὲ παῤ αὐτὴν Ἀχερουσία λίμνη ἐς θάλασσαν·
 1	ἐξίησι	ἐξίημι	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
-3	παῤ	παρά	ADP	r--------	_	4	case	_	_
+3	παῤ	παρά	ADP	r--------	_	4	case	_	_
 4	αὐτὴν	αὐτός	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
 5	Ἀχερουσία	Ἀχερουσία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	6	nmod	_	_
 6	λίμνη	λίμνη	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	_
@@ -5368,8 +5368,8 @@
 16	.	.	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@432
-# text = δἰ ὅπερ καὶ τὰ τῶν Ἀθηναίων ἀπὸ τῆς πολυπειρίας ἐπὶ πλέον ὑμῶν κεκαίνωται.
-1	δἰ	διά	ADP	r--------	_	2	case	_	_
+# text = δἰ ὅπερ καὶ τὰ τῶν Ἀθηναίων ἀπὸ τῆς πολυπειρίας ἐπὶ πλέον ὑμῶν κεκαίνωται.
+1	δἰ	διά	ADP	r--------	_	2	case	_	_
 2	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
 3	καὶ	καί	ADV	d--------	_	13	advmod	_	_
 4	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	13	det	_	_
@@ -5459,13 +5459,13 @@
 16	·	·	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@436
-# text = λύουσι γὰρ σπονδὰς οὐχ οἱ δἰ ἐρημίαν ἄλλοις προσιόντες, ἀλλ̓ οἱ μὴ βοηθοῦντες οἷς ἂν ξυνομόσωσιν.
+# text = λύουσι γὰρ σπονδὰς οὐχ οἱ δἰ ἐρημίαν ἄλλοις προσιόντες, ἀλλ̓ οἱ μὴ βοηθοῦντες οἷς ἂν ξυνομόσωσιν.
 1	λύουσι	λύω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	γὰρ	γάρ	ADV	d--------	_	1	advmod	_	_
 3	σπονδὰς	σπονδή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	1	obj	_	_
 4	οὐχ	οὐ	ADV	d--------	_	5	advmod	_	_
 5	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	det	_	_
-6	δἰ	διά	ADP	r--------	_	7	case	_	_
+6	δἰ	διά	ADP	r--------	_	7	case	_	_
 7	ἐρημίαν	ἐρημία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obl	_	_
 8	ἄλλοις	ἄλλος	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	9	obj	_	_
 9	προσιόντες	πρόσειμι	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	nmod	_	SpaceAfter=No
@@ -5741,8 +5741,8 @@
 11	.	.	PUNCT	u--------	_	2	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@461
-# text = ἆῤ ἄξιοί ἐσμεν, ὦ Λακεδαιμόνιοι, καὶ προθυμίας ἕνεκα τῆς τότε καὶ γνώμης ξυνέσεως ἀρχῆς γε ἧς ἔχομεν τοῖς Ἕλλησι μὴ οὕτως ἄγαν ἐπιφθόνως διακεῖσθαι;
-1	ἆῤ	ἆρα	ADV	d--------	_	2	advmod	_	_
+# text = ἆῤ ἄξιοί ἐσμεν, ὦ Λακεδαιμόνιοι, καὶ προθυμίας ἕνεκα τῆς τότε καὶ γνώμης ξυνέσεως ἀρχῆς γε ἧς ἔχομεν τοῖς Ἕλλησι μὴ οὕτως ἄγαν ἐπιφθόνως διακεῖσθαι;
+1	ἆῤ	ἆρα	ADV	d--------	_	2	advmod	_	_
 2	ἄξιοί	ἄξιος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 3	ἐσμεν	εἰμί	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
@@ -5851,7 +5851,7 @@
 15	·	·	PUNCT	u--------	_	5	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@473
-# text = καὶ ἐλασσούμενοι γὰρ ἐν ταῖς ξυμβολαίαις πρὸς τοὺς ξυμμάχους δίκαις καὶ παῤ ἡμῖν αὐτοῖς ἐν τοῖς ὁμοίοις νόμοις ποιήσαντες τὰς κρίσεις φιλοδικεῖν δοκοῦμεν.
+# text = καὶ ἐλασσούμενοι γὰρ ἐν ταῖς ξυμβολαίαις πρὸς τοὺς ξυμμάχους δίκαις καὶ παῤ ἡμῖν αὐτοῖς ἐν τοῖς ὁμοίοις νόμοις ποιήσαντες τὰς κρίσεις φιλοδικεῖν δοκοῦμεν.
 1	καὶ	καί	ADV	d--------	_	23	advmod	_	_
 2	ἐλασσούμενοι	ἐλασσόω	VERB	v-pppemn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	23	advcl	_	_
 3	γὰρ	γάρ	ADV	d--------	_	23	advmod	_	_
@@ -5863,7 +5863,7 @@
 9	ξυμμάχους	σύμμαχος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	10	nmod	_	_
 10	δίκαις	δίκη	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	2	obl	_	_
 11	καὶ	καί	CCONJ	c--------	_	2	cc	_	_
-12	παῤ	παρά	ADP	r--------	_	13	case	_	_
+12	παῤ	παρά	ADP	r--------	_	13	case	_	_
 13	ἡμῖν	ἐγώ	PRON	p1p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=1	19	obl	_	_
 14	αὐτοῖς	αὐτός	ADJ	a-p---md-	Case=Dat|Gender=Masc|Number=Plur	13	nmod	_	_
 15	ἐν	ἐν	ADP	r--------	_	18	case	_	_
@@ -5917,7 +5917,7 @@
 10	.	.	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@482
-# text = ὑμεῖς γ̓ ἂν οὖν εἰ καθελόντες ἡμᾶς ἄρξαιτε, τάχα ἂν τὴν εὔνοιαν ἣν διὰ τὸ ἡμέτερον δέος εἰλήφατε μεταβάλοιτε, εἴπερ οἷα καὶ τότε πρὸς τὸν Μῆδον δἰ ὀλίγου ἡγησάμενοι ὑπεδείξατε, ὁμοῖα καὶ νῦν γνώσεσθε.
+# text = ὑμεῖς γ̓ ἂν οὖν εἰ καθελόντες ἡμᾶς ἄρξαιτε, τάχα ἂν τὴν εὔνοιαν ἣν διὰ τὸ ἡμέτερον δέος εἰλήφατε μεταβάλοιτε, εἴπερ οἷα καὶ τότε πρὸς τὸν Μῆδον δἰ ὀλίγου ἡγησάμενοι ὑπεδείξατε, ὁμοῖα καὶ νῦν γνώσεσθε.
 1	ὑμεῖς	σύ	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	20	nsubj	_	_
 2	γ̓	γε	ADV	d--------	_	1	advmod	_	_
 3	ἂν	ἄν	ADV	d--------	_	8	advmod	_	_
@@ -5946,7 +5946,7 @@
 26	πρὸς	πρός	ADP	r--------	_	28	case	_	_
 27	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	28	det	_	_
 28	Μῆδον	Μῆδος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	31	obl	_	_
-29	δἰ	διά	ADP	r--------	_	30	case	_	_
+29	δἰ	διά	ADP	r--------	_	30	case	_	_
 30	ὀλίγου	ὀλίγος	ADJ	a-s---ng-	Case=Gen|Gender=Neut|Number=Sing	31	obl	_	_
 31	ἡγησάμενοι	ἡγέομαι	VERB	v-papmmn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Mid	32	advcl	_	_
 32	ὑπεδείξατε	ὑποδείκνυμι	VERB	v2paia---	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	34	acl	_	SpaceAfter=No
@@ -6360,10 +6360,10 @@
 8	·	·	PUNCT	u--------	_	2	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@527
-# text = μόνοι γὰρ δἰ αὐτὸ εὐπραγίαις τε οὐκ ἐξυβρίζομεν καὶ ξυμφοραῖς ἧσσον ἑτέρων εἴκομεν·
+# text = μόνοι γὰρ δἰ αὐτὸ εὐπραγίαις τε οὐκ ἐξυβρίζομεν καὶ ξυμφοραῖς ἧσσον ἑτέρων εἴκομεν·
 1	μόνοι	μόνος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	_
 2	γὰρ	γάρ	ADV	d--------	_	8	advmod	_	_
-3	δἰ	διά	ADP	r--------	_	4	case	_	_
+3	δἰ	διά	ADP	r--------	_	4	case	_	_
 4	αὐτὸ	αὐτός	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	8	obl	_	_
 5	εὐπραγίαις	εὐπραγία	NOUN	n-p---fd-	Case=Dat|Gender=Fem|Number=Plur	8	advmod	_	_
 6	τε	τε	ADV	d--------	_	8	advmod	_	_
@@ -9022,7 +9022,7 @@
 6	.	.	PUNCT	u--------	_	3	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@714
-# text = ἕκτῳ δὲ ἔτει Σαμίοις καὶ Μιλησίοις πόλεμος ἐγένετο περὶ Πριήνης, καὶ οἱ Μιλήσιοι ἐλασσούμενοι τῷ πολέμῳ παῤ Ἀθηναίους ἐλθόντες κατεβόων τῶν Σαμίων.
+# text = ἕκτῳ δὲ ἔτει Σαμίοις καὶ Μιλησίοις πόλεμος ἐγένετο περὶ Πριήνης, καὶ οἱ Μιλήσιοι ἐλασσούμενοι τῷ πολέμῳ παῤ Ἀθηναίους ἐλθόντες κατεβόων τῶν Σαμίων.
 1	ἕκτῳ	ἕκτος	ADJ	a-s---nd-	Case=Dat|Gender=Neut|Number=Sing	3	nmod	_	_
 2	δὲ	δέ	ADV	d--------	_	8	advmod	_	_
 3	ἔτει	ἔτος	NOUN	n-s---nd-	Case=Dat|Gender=Neut|Number=Sing	8	advmod	_	_
@@ -9040,7 +9040,7 @@
 15	ἐλασσούμενοι	ἐλασσόω	VERB	v-pppemn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	21	advcl	_	_
 16	τῷ	ὁ	DET	l-s---md-	Case=Dat|Gender=Masc|Number=Sing	17	det	_	_
 17	πολέμῳ	πόλεμος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	15	advmod	_	_
-18	παῤ	παρά	ADP	r--------	_	19	case	_	_
+18	παῤ	παρά	ADP	r--------	_	19	case	_	_
 19	Ἀθηναίους	Ἀθήναιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	20	obl	_	_
 20	ἐλθόντες	ἔρχομαι	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	21	advcl	_	_
 21	κατεβόων	καταβοάω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	_
@@ -9417,8 +9417,8 @@
 14	·	·	PUNCT	u--------	_	10	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@740
-# text = δἰ ὅπερ καὶ μὴ ὀκνεῖν δεῖ αὐτοὺς τὸν πόλεμον ἀντ̓ εἰρήνης μεταλαμβάνειν.
-1	δἰ	διά	ADP	r--------	_	2	case	_	_
+# text = δἰ ὅπερ καὶ μὴ ὀκνεῖν δεῖ αὐτοὺς τὸν πόλεμον ἀντ̓ εἰρήνης μεταλαμβάνειν.
+1	δἰ	διά	ADP	r--------	_	2	case	_	_
 2	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	obl	_	_
 3	καὶ	καί	ADV	d--------	_	6	advmod	_	_
 4	μὴ	μή	ADV	d--------	_	5	advmod	_	_
@@ -9433,7 +9433,7 @@
 13	.	.	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@742
-# text = ὅ τε γὰρ διὰ τὴν ἡδονὴν ὀκνῶν τάχιστ̓ ἂν ἀφαιρεθείη τῆς ῥᾳστώνης τὸ τερπνὸν δἰ ὅπερ ὀκνεῖ, εἰ ἡσυχάζοι, ὅ τε ἐν πολέμῳ εὐτυχίᾳ πλεονάζων οὐκ ἐντεθύμηται θράσει ἀπίστῳ ἐπαιρόμενος.
+# text = ὅ τε γὰρ διὰ τὴν ἡδονὴν ὀκνῶν τάχιστ̓ ἂν ἀφαιρεθείη τῆς ῥᾳστώνης τὸ τερπνὸν δἰ ὅπερ ὀκνεῖ, εἰ ἡσυχάζοι, ὅ τε ἐν πολέμῳ εὐτυχίᾳ πλεονάζων οὐκ ἐντεθύμηται θράσει ἀπίστῳ ἐπαιρόμενος.
 1	ὅ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
 2	τε	τε	ADV	d--------	_	10	advmod	_	_
 3	γὰρ	γάρ	ADV	d--------	_	10	advmod	_	_
@@ -9448,7 +9448,7 @@
 12	ῥᾳστώνης	ῥᾳστώνη	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
 13	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	14	det	_	_
 14	τερπνὸν	τερπνός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
-15	δἰ	διά	ADP	r--------	_	16	case	_	_
+15	δἰ	διά	ADP	r--------	_	16	case	_	_
 16	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	17	obl	_	_
 17	ὀκνεῖ	ὀκνέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	acl	_	SpaceAfter=No
 18	,	,	PUNCT	u--------	_	10	punct	_	_
@@ -10359,7 +10359,7 @@
 10	.	.	PUNCT	u--------	_	3	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@812
-# text = εἰ οὖν τί σε τούτων ἀρέσκει, πέμπε ἄνδρα πιστὸν ἐπὶ θάλασσαν δἰ οὗ τὸ λοιπὸν τοὺς λόγους ποιησόμεθα.
+# text = εἰ οὖν τί σε τούτων ἀρέσκει, πέμπε ἄνδρα πιστὸν ἐπὶ θάλασσαν δἰ οὗ τὸ λοιπὸν τοὺς λόγους ποιησόμεθα.
 1	εἰ	εἰ	SCONJ	c--------	_	6	mark	_	_
 2	οὖν	οὖν	ADV	d--------	_	8	advmod	_	_
 3	τί	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	6	advmod	_	_
@@ -10372,7 +10372,7 @@
 10	πιστὸν	πιστός	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	9	nmod	_	_
 11	ἐπὶ	ἐπί	ADP	r--------	_	12	case	_	_
 12	θάλασσαν	θάλασσα	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	obl	_	_
-13	δἰ	διά	ADP	r--------	_	14	case	_	_
+13	δἰ	διά	ADP	r--------	_	14	case	_	_
 14	οὗ	ὅς	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	19	obl	_	_
 15	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	det	_	_
 16	λοιπὸν	λοιπός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	19	advmod	_	_
@@ -10451,8 +10451,8 @@
 18	·	·	PUNCT	u--------	_	4	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@821
-# text = δἰ ὅπερ καὶ πρὸς τοὺς Ἀθηναίους οὐχ ἥκιστα ἡ ξυμμαχία μετέστη.
-1	δἰ	διά	ADP	r--------	_	2	case	_	_
+# text = δἰ ὅπερ καὶ πρὸς τοὺς Ἀθηναίους οὐχ ἥκιστα ἡ ξυμμαχία μετέστη.
+1	δἰ	διά	ADP	r--------	_	2	case	_	_
 2	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	11	obl	_	_
 3	καὶ	καί	ADV	d--------	_	11	advmod	_	_
 4	πρὸς	πρός	ADP	r--------	_	6	case	_	_
@@ -11066,14 +11066,14 @@
 20	·	·	PUNCT	u--------	_	14	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@865
-# text = ἀφικόμενος δὲ μετὰ τὸν ἐνιαυτὸν γίγνεται παῤ αὐτῷ μέγας καὶ ὅσος οὐδείς πω Ἑλλήνων διά τε τὴν προϋπάρχουσαν ἀξίωσιν καὶ τοῦ Ἑλληνικοῦ ἐλπίδα, ἣν ὑπετίθει αὐτῷ δουλώσειν, μάλιστα δὲ ἀπὸ τοῦ πεῖραν διδοὺς ξυνετὸς φαίνεσθαι.
+# text = ἀφικόμενος δὲ μετὰ τὸν ἐνιαυτὸν γίγνεται παῤ αὐτῷ μέγας καὶ ὅσος οὐδείς πω Ἑλλήνων διά τε τὴν προϋπάρχουσαν ἀξίωσιν καὶ τοῦ Ἑλληνικοῦ ἐλπίδα, ἣν ὑπετίθει αὐτῷ δουλώσειν, μάλιστα δὲ ἀπὸ τοῦ πεῖραν διδοὺς ξυνετὸς φαίνεσθαι.
 1	ἀφικόμενος	ἀφικνέομαι	VERB	v-sapmmn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	6	advcl	_	_
 2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
 3	μετὰ	μετά	ADP	r--------	_	5	case	_	_
 4	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
 5	ἐνιαυτὸν	ἐνιαυτός	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obl	_	_
 6	γίγνεται	γίγνομαι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
-7	παῤ	παρά	ADP	r--------	_	8	case	_	_
+7	παῤ	παρά	ADP	r--------	_	8	case	_	_
 8	αὐτῷ	αὐτός	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	1	obl	_	_
 9	μέγας	μέγας	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	xcomp	_	_
 10	καὶ	καί	ADV	d--------	_	11	advmod	_	_
@@ -11290,11 +11290,11 @@
 18	·	·	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@879
-# text = ὕστερον δὲ φοιτῶντες παῤ Ἀθηναίους Ποτειδαίας τε ἀπανίστασθαι ἐκέλευον καὶ Αἴγιναν αὐτόνομον ἀφιέναι, καὶ μάλιστά γε πάντων καὶ ἐνδηλότατα προύλεγον τὸ περὶ Μεγαρέων ψήφισμα καθελοῦσι μὴ ἂν γίγνεσθαι πόλεμον, ἐν ᾧ εἴρητο αὐτοὺς μὴ χρῆσθαι τοῖς λιμέσι τοῖς ἐν τῇ Ἀθηναίων ἀρχῇ μηδὲ τῇ Ἀττικῇ ἀγορᾷ.
+# text = ὕστερον δὲ φοιτῶντες παῤ Ἀθηναίους Ποτειδαίας τε ἀπανίστασθαι ἐκέλευον καὶ Αἴγιναν αὐτόνομον ἀφιέναι, καὶ μάλιστά γε πάντων καὶ ἐνδηλότατα προύλεγον τὸ περὶ Μεγαρέων ψήφισμα καθελοῦσι μὴ ἂν γίγνεσθαι πόλεμον, ἐν ᾧ εἴρητο αὐτοὺς μὴ χρῆσθαι τοῖς λιμέσι τοῖς ἐν τῇ Ἀθηναίων ἀρχῇ μηδὲ τῇ Ἀττικῇ ἀγορᾷ.
 1	ὕστερον	ὕστερος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	9	advmod	_	_
 2	δὲ	δέ	ADV	d--------	_	9	advmod	_	_
 3	φοιτῶντες	φοιτάω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	advcl	_	_
-4	παῤ	παρά	ADP	r--------	_	5	case	_	_
+4	παῤ	παρά	ADP	r--------	_	5	case	_	_
 5	Ἀθηναίους	Ἀθήναιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	3	obl	_	_
 6	Ποτειδαίας	Ποτειδαία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	8	obj	_	_
 7	τε	τε	ADV	d--------	_	8	advmod	_	_
@@ -11380,8 +11380,8 @@
 35	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@886
-# text = δἰ ὅπερ καὶ τὴν τύχην, ὅσα ἂν παρὰ λόγον ξυμβῇ, εἰώθαμεν αἰτιᾶσθαι.
-1	δἰ	διά	ADP	r--------	_	2	case	_	_
+# text = δἰ ὅπερ καὶ τὴν τύχην, ὅσα ἂν παρὰ λόγον ξυμβῇ, εἰώθαμεν αἰτιᾶσθαι.
+1	δἰ	διά	ADP	r--------	_	2	case	_	_
 2	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	13	obl	_	_
 3	καὶ	καί	ADV	d--------	_	5	advmod	_	_
 4	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
@@ -11959,14 +11959,14 @@
 20	·	·	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0003.tlg001.perseus-grc1.1.tb.xml@941
-# text = ἐπεμείγνυντο δὲ ὅμως ἐν αὐταῖς καὶ παῤ ἀλλήλους ἐφοίτων ἀκηρύκτως μέν, ἀνυπόπτως δὲ οὔ·
+# text = ἐπεμείγνυντο δὲ ὅμως ἐν αὐταῖς καὶ παῤ ἀλλήλους ἐφοίτων ἀκηρύκτως μέν, ἀνυπόπτως δὲ οὔ·
 1	ἐπεμείγνυντο	ἐπιμίγνυμι	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
 2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
 3	ὅμως	ὅμως	ADV	d--------	_	1	advmod	_	_
 4	ἐν	ἐν	ADP	r--------	_	5	case	_	_
 5	αὐταῖς	αὐτός	PRON	p-p---fd-	Case=Dat|Gender=Fem|Number=Plur	1	obl	_	_
 6	καὶ	καί	CCONJ	c--------	_	1	cc	_	_
-7	παῤ	παρά	ADP	r--------	_	8	case	_	_
+7	παῤ	παρά	ADP	r--------	_	8	case	_	_
 8	ἀλλήλους	ἀλλήλων	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	9	obl	_	_
 9	ἐφοίτων	φοιτάω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
 10	ἀκηρύκτως	ἀκήρυκτος	ADV	d--------	_	9	advmod	_	_
@@ -12354,7 +12354,7 @@
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@28
-# text = ἦν δὲ καὶ τἆλλα περίβλεπτος ὑπὸ τῶν πολιτῶν, καὶ πλείονες ἐγένοντο τῶν ὡς ἐπιτρόπῳ βασιλέως καὶ βασιλικὴν ἐξουσίαν ἔχοντι πειθομένων οἱ δἰ ἀρετὴν προσέχοντες αὐτῷ καὶ ποιεῖν ἐθέλοντες ἑτοίμως τὸ προσταττόμενον.
+# text = ἦν δὲ καὶ τἆλλα περίβλεπτος ὑπὸ τῶν πολιτῶν, καὶ πλείονες ἐγένοντο τῶν ὡς ἐπιτρόπῳ βασιλέως καὶ βασιλικὴν ἐξουσίαν ἔχοντι πειθομένων οἱ δἰ ἀρετὴν προσέχοντες αὐτῷ καὶ ποιεῖν ἐθέλοντες ἑτοίμως τὸ προσταττόμενον.
 1	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 2	δὲ	δέ	ADV	d--------	_	5	advmod	_	_
 3	καὶ	καί	ADV	d--------	_	4	advmod	_	_
@@ -12377,7 +12377,7 @@
 20	ἔχοντι	ἔχω	VERB	v-sppamd-	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	conj	_	_
 21	πειθομένων	πείθω	VERB	v-pppemg-	Case=Gen|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	11	advmod	_	_
 22	οἱ	ὀ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	25	det	_	_
-23	δἰ	διά	ADP	r--------	_	24	case	_	_
+23	δἰ	διά	ADP	r--------	_	24	case	_	_
 24	ἀρετὴν	ἀρετή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	25	obl	_	_
 25	προσέχοντες	προσέχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	12	nsubj	_	_
 26	αὐτῷ	αὐτός	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	25	obj	_	_
@@ -12882,7 +12882,7 @@
 13	.	.	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@60
-# text = εἴη δ̓ ἂν τι καὶ τὸ τοῦ ἀριθμοῦ δἰ ἑβδομάδος τετράδι πολλαπλασιασθείσης ἀποτελούμενον, καὶ ὅτι τοῖς αὑτοῦ μέρεσιν ἴσος ὢν μετὰ τὴν ἑξάδα τέλειός ἐστιν.
+# text = εἴη δ̓ ἂν τι καὶ τὸ τοῦ ἀριθμοῦ δἰ ἑβδομάδος τετράδι πολλαπλασιασθείσης ἀποτελούμενον, καὶ ὅτι τοῖς αὑτοῦ μέρεσιν ἴσος ὢν μετὰ τὴν ἑξάδα τέλειός ἐστιν.
 1	εἴη	ἐάω	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	δ̓	δέ	ADV	d--------	_	1	advmod	_	_
 3	ἂν	ἄν	ADV	d--------	_	1	advmod	_	_
@@ -12891,7 +12891,7 @@
 6	τὸ	ὁ	DET	l-s---nn-	Case=Nom|Gender=Neut|Number=Sing	13	det	_	_
 7	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	8	det	_	_
 8	ἀριθμοῦ	ἀριθμός	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	13	advmod	_	_
-9	δἰ	διά	ADP	r--------	_	10	case	_	_
+9	δἰ	διά	ADP	r--------	_	10	case	_	_
 10	ἑβδομάδος	ἑβδομάς	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	13	obl	_	_
 11	τετράδι	τετράς	NOUN	n-s---fd-	Case=Dat|Gender=Fem|Number=Sing	12	advmod	_	_
 12	πολλαπλασιασθείσης	πολλαπλασιάζω	VERB	v-sappfg-	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	10	nmod	_	_
@@ -13334,7 +13334,7 @@
 19	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@102
-# text = ἀλλὰ οὕτως ἀπερημωθεῖσα κατὰ μικρὸν ἡ τρυφὴ τῶν ζωπυρούντων καὶ τρεφόντων αὐτὴ δἰ αὑτῆς ἐμαραίνετο·
+# text = ἀλλὰ οὕτως ἀπερημωθεῖσα κατὰ μικρὸν ἡ τρυφὴ τῶν ζωπυρούντων καὶ τρεφόντων αὐτὴ δἰ αὑτῆς ἐμαραίνετο·
 1	ἀλλὰ	ἀλλά	ADV	d--------	_	15	advmod	_	_
 2	οὕτως	οὕτως	ADV	d--------	_	15	advmod	_	_
 3	ἀπερημωθεῖσα	ἀπερημόομαι	VERB	v-sapefn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Mid	15	advcl	_	_
@@ -13347,7 +13347,7 @@
 10	καὶ	καί	CCONJ	c--------	_	9	cc	_	_
 11	τρεφόντων	τρέφω	VERB	v-pppang-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	9	conj	_	_
 12	αὐτὴ	αὐτός	ADJ	a-s---fn-	Case=Nom|Gender=Fem|Number=Sing	7	xcomp	_	_
-13	δἰ	διά	ADP	r--------	_	14	case	_	_
+13	δἰ	διά	ADP	r--------	_	14	case	_	_
 14	αὑτῆς	ἑαυτοῦ	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	15	obl	_	_
 15	ἐμαραίνετο	μαραίνω	VERB	v3siie---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 16	·	·	PUNCT	u--------	_	15	punct	_	_
@@ -13987,7 +13987,7 @@
 15	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@159
-# text = ἐκ δὲ ταύτης τῆς συνηθείας φασὶ καὶ Λεωτυχίδην τὸν πρεσβύτερον ἐν Κορίνθῳ δειπνοῦντα, καὶ θεασάμενον τῆς στέγης τοῦ οἴκου τὴν κατασκευὴν πολυτελῆ καὶ φατνωματικήν, ἐρωτῆσαι τὸν ξένον εἰ τετράγωνα παῤ αὐτοῖς τὰ ξύλα φύεται.
+# text = ἐκ δὲ ταύτης τῆς συνηθείας φασὶ καὶ Λεωτυχίδην τὸν πρεσβύτερον ἐν Κορίνθῳ δειπνοῦντα, καὶ θεασάμενον τῆς στέγης τοῦ οἴκου τὴν κατασκευὴν πολυτελῆ καὶ φατνωματικήν, ἐρωτῆσαι τὸν ξένον εἰ τετράγωνα παῤ αὐτοῖς τὰ ξύλα φύεται.
 1	ἐκ	ἐκ	ADP	r--------	_	5	case	_	_
 2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
 3	ταύτης	οὗτος	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
@@ -14019,7 +14019,7 @@
 29	ξένον	ξένος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	27	obj	_	_
 30	εἰ	εἰ	SCONJ	c--------	_	36	mark	_	_
 31	τετράγωνα	τετράγωνος	ADJ	a-p---nn-	Case=Nom|Gender=Neut|Number=Plur	35	xcomp	_	_
-32	παῤ	παρά	ADP	r--------	_	33	case	_	_
+32	παῤ	παρά	ADP	r--------	_	33	case	_	_
 33	αὐτοῖς	αὐτός	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	36	obl	_	_
 34	τὰ	ὁ	DET	l-p---nn-	Case=Nom|Gender=Neut|Number=Plur	35	det	_	_
 35	ξύλα	ξύλον	NOUN	n-p---nn-	Case=Nom|Gender=Neut|Number=Plur	36	nsubj	_	_
@@ -14626,7 +14626,7 @@
 51	.	.	PUNCT	u--------	_	12	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@192
-# text = ἐξῆν μὲν γὰρ ἀνδρὶ πρεσβυτέρῳ νέας γυναικός, εἰ δὴ τινα τῶν καλῶν καὶ ἀγαθῶν ἀσπάσαιτο νέων καὶ δοκιμάσειεν, εἰσαγαγεῖν παῤ αὐτὴν καὶ πλήσαντα γενναίου σπέρματος ἴδιον αὑτοῖς ποιήσασθαι τὸ γεννηθέν.
+# text = ἐξῆν μὲν γὰρ ἀνδρὶ πρεσβυτέρῳ νέας γυναικός, εἰ δὴ τινα τῶν καλῶν καὶ ἀγαθῶν ἀσπάσαιτο νέων καὶ δοκιμάσειεν, εἰσαγαγεῖν παῤ αὐτὴν καὶ πλήσαντα γενναίου σπέρματος ἴδιον αὑτοῖς ποιήσασθαι τὸ γεννηθέν.
 1	ἐξῆν	ἔξεστι	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	μὲν	μέν	ADV	d--------	_	1	advmod	_	_
 3	γὰρ	γάρ	ADV	d--------	_	1	advmod	_	_
@@ -14648,7 +14648,7 @@
 19	δοκιμάσειεν	δοκιμάζω	VERB	v3saoa---	Mood=Opt|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	SpaceAfter=No
 20	,	,	PUNCT	u--------	_	9	punct	_	_
 21	εἰσαγαγεῖν	εἰσάγω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	1	csubj	_	_
-22	παῤ	παρά	ADP	r--------	_	23	case	_	_
+22	παῤ	παρά	ADP	r--------	_	23	case	_	_
 23	αὐτὴν	αὐτός	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	21	obl	_	_
 24	καὶ	καί	CCONJ	c--------	_	21	cc	_	_
 25	πλήσαντα	πίμπλημι	VERB	v-sapama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	21	xcomp	_	_
@@ -14740,7 +14740,7 @@
 34	.	.	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@196
-# text = ταῦτα δὲ οὕτως πραττόμενα φυσικῶς καὶ πολιτικῶς τότε τοσοῦτον ἀπεῖχε τῆς ὕστερον λεγομένης γενέσθαι περὶ τὰς γυναῖκας εὐχερείας ὥστε ὅλως ἄπιστον εἶναι τὸ τῆς μοιχείας παῤ αὑτοῖς.
+# text = ταῦτα δὲ οὕτως πραττόμενα φυσικῶς καὶ πολιτικῶς τότε τοσοῦτον ἀπεῖχε τῆς ὕστερον λεγομένης γενέσθαι περὶ τὰς γυναῖκας εὐχερείας ὥστε ὅλως ἄπιστον εἶναι τὸ τῆς μοιχείας παῤ αὑτοῖς.
 1	ταῦτα	οὗτος	PRON	p-p---nn-	Case=Nom|Gender=Neut|Number=Plur	10	nsubj	_	_
 2	δὲ	δέ	ADV	d--------	_	10	advmod	_	_
 3	οὕτως	οὕτως	ADV	d--------	_	4	advmod	_	_
@@ -14766,12 +14766,12 @@
 23	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	21	det	_	_
 24	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	25	det	_	_
 25	μοιχείας	μοιχεία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
-26	παῤ	παρά	ADP	r--------	_	27	case	_	_
+26	παῤ	παρά	ADP	r--------	_	27	case	_	_
 27	αὑτοῖς	ἑαυτοῦ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	21	obl	_	SpaceAfter=No
 28	.	.	PUNCT	u--------	_	10	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@197
-# text = καὶ λόγος ἀπομνημονεύεται Γεράδα τινὸς Σπαρτιάτου τῶν σφόδρα παλαιῶν, ὃς ἐρωτηθεὶς ὑπὸ ξένου τί πάσχουσιν οἱ μοιχοὶ παῤ αὑτοῖς, εἶπεν·
+# text = καὶ λόγος ἀπομνημονεύεται Γεράδα τινὸς Σπαρτιάτου τῶν σφόδρα παλαιῶν, ὃς ἐρωτηθεὶς ὑπὸ ξένου τί πάσχουσιν οἱ μοιχοὶ παῤ αὑτοῖς, εἶπεν·
 1	καὶ	καί	ADV	d--------	_	3	advmod	_	_
 2	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
 3	ἀπομνημονεύεται	ἀπομνημονεύω	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
@@ -14790,21 +14790,21 @@
 16	πάσχουσιν	πάσχω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	ccomp	_	_
 17	οἱ	ὀ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	18	det	_	_
 18	μοιχοὶ	μοιχός	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	16	nsubj	_	_
-19	παῤ	παρά	ADP	r--------	_	20	case	_	_
+19	παῤ	παρά	ADP	r--------	_	20	case	_	_
 20	αὑτοῖς	ἑαυτοῦ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
 21	,	,	PUNCT	u--------	_	12	punct	_	_
 22	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	acl	_	SpaceAfter=No
 23	·	·	PUNCT	u--------	_	3	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@198
-# text = ὦ ξένε, οὐδεὶς γίνεται μοιχὸς παῤ ἡμῖν.
+# text = ὦ ξένε, οὐδεὶς γίνεται μοιχὸς παῤ ἡμῖν.
 1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
 2	ξένε	ξένος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	οὐδεὶς	οὐδείς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
 5	γίνεται	γίγνομαι	VERB	v3spie---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	_
 6	μοιχὸς	μοιχός	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-7	παῤ	παρά	ADP	r--------	_	8	case	_	_
+7	παῤ	παρά	ADP	r--------	_	8	case	_	_
 8	ἡμῖν	ἐγώ	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 9	.	.	PUNCT	u--------	_	5	punct	_	_
 
@@ -15308,7 +15308,7 @@
 19	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@234
-# text = γλίσχρον γὰρ αὐτοῖς ἐστι δεῖπνον, ὅπως δἰ αὑτῶν ἀμυνόμενοι τὴν ἔνδειαν ἀναγκάζωνται τολμᾶν καὶ πανουργεῖν.
+# text = γλίσχρον γὰρ αὐτοῖς ἐστι δεῖπνον, ὅπως δἰ αὑτῶν ἀμυνόμενοι τὴν ἔνδειαν ἀναγκάζωνται τολμᾶν καὶ πανουργεῖν.
 1	γλίσχρον	γλίσχρος	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
 2	γὰρ	γάρ	ADV	d--------	_	1	advmod	_	_
 3	αὐτοῖς	αὐτός	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	nmod	_	_
@@ -15316,7 +15316,7 @@
 5	δεῖπνον	δεῖπνον	NOUN	n-s---nn-	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	7	punct	_	_
 7	ὅπως	ὅπως	SCONJ	c--------	_	13	mark	_	_
-8	δἰ	διά	ADP	r--------	_	9	case	_	_
+8	δἰ	διά	ADP	r--------	_	9	case	_	_
 9	αὑτῶν	ἑαυτοῦ	PRON	p-p---ng-	Case=Gen|Gender=Neut|Number=Plur	13	obl	_	_
 10	ἀμυνόμενοι	ἀμύνω	VERB	v-pppemn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	13	advcl	_	_
 11	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	12	det	_	_
@@ -16001,7 +16001,7 @@
 18	·	·	PUNCT	u--------	_	15	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@280
-# text = μόνοι γάρ Ἑλλάνων ἄμμες οὐδὲν κακὸν μεμαθήκαμεν παῤ ὑμῶν.
+# text = μόνοι γάρ Ἑλλάνων ἄμμες οὐδὲν κακὸν μεμαθήκαμεν παῤ ὑμῶν.
 1	μόνοι	μόνος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	_
 2	γάρ	γάρ	ADV	d--------	_	7	advmod	_	_
 3	Ἑλλάνων	Ἕλλην	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	1	nmod	_	_
@@ -16009,7 +16009,7 @@
 5	οὐδὲν	οὐδείς	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
 6	κακὸν	κακός	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
 7	μεμαθήκαμεν	μανθάνω	VERB	v1pria---	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-8	παῤ	παρά	ADP	r--------	_	9	case	_	_
+8	παῤ	παρά	ADP	r--------	_	9	case	_	_
 9	ὑμῶν	σύ	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 10	.	.	PUNCT	u--------	_	7	punct	_	_
 
@@ -17123,12 +17123,12 @@
 7	.	.	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@380
-# text = ἡ δὲ καλουμένη κρυπτεία παῤ αὐτοῖς, εἴ γε δὴ τοῦτο τῶν Λυκούργου πολιτευμάτων ἕν ἐστιν, ὡς Ἀριστοτέλης ἱστόρηκε, ταύτην ἂν εἴη καὶ τῷ Πλάτωνι περὶ τῆς πολιτείας καὶ τοῦ ἀνδρὸς ἐνειργασμένη δόξαν.
+# text = ἡ δὲ καλουμένη κρυπτεία παῤ αὐτοῖς, εἴ γε δὴ τοῦτο τῶν Λυκούργου πολιτευμάτων ἕν ἐστιν, ὡς Ἀριστοτέλης ἱστόρηκε, ταύτην ἂν εἴη καὶ τῷ Πλάτωνι περὶ τῆς πολιτείας καὶ τοῦ ἀνδρὸς ἐνειργασμένη δόξαν.
 1	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	det	_	_
 2	δὲ	δέ	ADV	d--------	_	34	advmod	_	_
 3	καλουμένη	καλέω	VERB	v-sfpmfn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Fut|VerbForm=Part|Voice=Mid	34	nsubj	_	_
 4	κρυπτεία	κρυπτεία	NOUN	n-s---fn-	Case=Nom|Gender=Fem|Number=Sing	3	xcomp	_	_
-5	παῤ	παρά	ADP	r--------	_	6	case	_	_
+5	παῤ	παρά	ADP	r--------	_	6	case	_	_
 6	αὐτοῖς	αὐτός	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	8	punct	_	_
 8	εἴ	εἰ	SCONJ	c--------	_	15	mark	_	_
@@ -17712,8 +17712,8 @@
 27	.	.	PUNCT	u--------	_	4	punct	_	_
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@423
-# text = δἰ ὅπερ καὶ Ἀριστοτέλης ἐλάττονας σχεῖν φησι τιμὰς ἢ προσῆκον ἦν αὐτὸν ἔχειν ἐν Λακεδαίμονι, καίπερ ἔχοντα τὰς μεγίστας.
-1	δἰ	διά	ADP	r--------	_	2	case	_	_
+# text = δἰ ὅπερ καὶ Ἀριστοτέλης ἐλάττονας σχεῖν φησι τιμὰς ἢ προσῆκον ἦν αὐτὸν ἔχειν ἐν Λακεδαίμονι, καίπερ ἔχοντα τὰς μεγίστας.
+1	δἰ	διά	ADP	r--------	_	2	case	_	_
 2	ὅπερ	ὅσπερ	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	7	obl	_	_
 3	καὶ	καί	ADV	d--------	_	4	advmod	_	_
 4	Ἀριστοτέλης	Ἀριστοτέλης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -17849,7 +17849,7 @@
 15	.	.	PUNCT	u--------	_	14	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@6
-# text = οὐ γάρ, ὡς Εὐριπίδης ἔλεγε, πάντων τῶν καλῶν καὶ τὸ μετόπωρον καλόν ἐστιν, ἀλλὰ τοῦτο Ἀλκιβιάδῃ μετ̓ ὀλίγων ἄλλων δἰ εὐφυΐαν καὶ ἀρετὴν σώματος ὑπῆρξε.
+# text = οὐ γάρ, ὡς Εὐριπίδης ἔλεγε, πάντων τῶν καλῶν καὶ τὸ μετόπωρον καλόν ἐστιν, ἀλλὰ τοῦτο Ἀλκιβιάδῃ μετ̓ ὀλίγων ἄλλων δἰ εὐφυΐαν καὶ ἀρετὴν σώματος ὑπῆρξε.
 1	οὐ	οὐ	ADV	d--------	_	10	advmod	_	_
 2	γάρ	γάρ	ADV	d--------	_	10	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	10	punct	_	_
@@ -17872,7 +17872,7 @@
 20	μετ̓	μετά	ADP	r--------	_	22	case	_	_
 21	ὀλίγων	ὀλίγος	ADJ	a-p---mg-	Case=Gen|Gender=Masc|Number=Plur	22	nmod	_	_
 22	ἄλλων	ἄλλος	PRON	p-p---mg-	Case=Gen|Gender=Masc|Number=Plur	28	obl	_	_
-23	δἰ	διά	ADP	r--------	_	24	case	_	_
+23	δἰ	διά	ADP	r--------	_	24	case	_	_
 24	εὐφυΐαν	εὐφυία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	28	obl	_	_
 25	καὶ	καί	CCONJ	c--------	_	24	cc	_	_
 26	ἀρετὴν	ἀρετή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	24	conj	_	_
@@ -18875,7 +18875,7 @@
 30	.	.	PUNCT	u--------	_	29	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@86
-# text = ὡς οὖν παρῆν τοῦτο πράξουσα κατὰ τὸν νόμον, ἐπελθὼν ὁ Ἀλκιβιάδης καὶ συναρπάσας αὐτὴν ἀπῆλθε δἰ ἀγορᾶς οἴκαδε κομίζων, μηδενὸς ἐναντιωθῆναι μηδ̓ ἀφελέσθαι τολμήσαντος.
+# text = ὡς οὖν παρῆν τοῦτο πράξουσα κατὰ τὸν νόμον, ἐπελθὼν ὁ Ἀλκιβιάδης καὶ συναρπάσας αὐτὴν ἀπῆλθε δἰ ἀγορᾶς οἴκαδε κομίζων, μηδενὸς ἐναντιωθῆναι μηδ̓ ἀφελέσθαι τολμήσαντος.
 1	ὡς	ὡς	SCONJ	c--------	_	3	mark	_	_
 2	οὖν	οὖν	ADV	d--------	_	16	advmod	_	_
 3	παρῆν	πάρειμι	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	16	advcl	_	_
@@ -18892,7 +18892,7 @@
 14	συναρπάσας	συναρπάζω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	10	conj	_	_
 15	αὐτὴν	αὐτός	PRON	p-s---fa-	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	_
 16	ἀπῆλθε	ἀπέρχομαι	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-17	δἰ	διά	ADP	r--------	_	18	case	_	_
+17	δἰ	διά	ADP	r--------	_	18	case	_	_
 18	ἀγορᾶς	ἀγορά	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	20	obl	_	_
 19	οἴκαδε	οἴκαδε	ADV	d--------	_	20	advmod	_	_
 20	κομίζων	κομίζω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	16	advcl	_	SpaceAfter=No
@@ -20298,7 +20298,7 @@
 34	.	.	PUNCT	u--------	_	18	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@189
-# text = ἐν δὲ τούτῳ δούλους τινὰς καὶ μετοίκους προήγαγεν Ἀνδροκλῆς ὁ δημαγωγὸς ἄλλων τε ἀγαλμάτων περικοπὰς καὶ μυστηρίων παῤ οἶνον ἀπομιμήσεις τοῦ Ἀλκιβιάδου καὶ τῶν φίλων κατηγοροῦντας.
+# text = ἐν δὲ τούτῳ δούλους τινὰς καὶ μετοίκους προήγαγεν Ἀνδροκλῆς ὁ δημαγωγὸς ἄλλων τε ἀγαλμάτων περικοπὰς καὶ μυστηρίων παῤ οἶνον ἀπομιμήσεις τοῦ Ἀλκιβιάδου καὶ τῶν φίλων κατηγοροῦντας.
 1	ἐν	ἐν	ADP	r--------	_	3	case	_	_
 2	δὲ	δέ	ADV	d--------	_	8	advmod	_	_
 3	τούτῳ	οὗτος	PRON	p-s---nd-	Case=Dat|Gender=Neut|Number=Sing	8	obl	_	_
@@ -20316,7 +20316,7 @@
 15	περικοπὰς	περικοπή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	26	obj	_	_
 16	καὶ	καί	CCONJ	c--------	_	15	cc	_	_
 17	μυστηρίων	μυστήριον	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
-18	παῤ	παρά	ADP	r--------	_	19	case	_	_
+18	παῤ	παρά	ADP	r--------	_	19	case	_	_
 19	οἶνον	οἶνος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	20	nmod	_	_
 20	ἀπομιμήσεις	ἀπομίμησις	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	15	conj	_	_
 21	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	22	det	_	_
@@ -21083,14 +21083,14 @@
 19	·	·	PUNCT	u--------	_	6	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@258
-# text = τὰ γὰρ πλεῖστα γίνεσθαι καὶ προχωρεῖν δἰ Ἀλκιβιάδην λόγος ἦν·
+# text = τὰ γὰρ πλεῖστα γίνεσθαι καὶ προχωρεῖν δἰ Ἀλκιβιάδην λόγος ἦν·
 1	τὰ	ὁ	DET	l-p---na-	Case=Acc|Gender=Neut|Number=Plur	3	det	_	_
 2	γὰρ	γάρ	ADV	d--------	_	4	advmod	_	_
 3	πλεῖστα	πλεῖστος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	nsubj	_	_
 4	γίνεσθαι	γίγνομαι	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	0	root	_	_
 5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
 6	προχωρεῖν	προχωρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
-7	δἰ	διά	ADP	r--------	_	8	case	_	_
+7	δἰ	διά	ADP	r--------	_	8	case	_	_
 8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
 9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	_
 10	ἦν	εἰμί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	4	cop	_	SpaceAfter=No
@@ -21269,7 +21269,7 @@
 7	.	.	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@276
-# text = τὸν γὰρ Τισαφέρνην ἐκπεπληγμένος ὁ Ἀστύοχος, καὶ τὸν Ἀλκιβιάδην ὁρῶν παῤ αὐτῷ μέγαν ὄντα, κατεμήνυσε τὰ τοῦ Φρυνίχου πρὸς αὐτούς.
+# text = τὸν γὰρ Τισαφέρνην ἐκπεπληγμένος ὁ Ἀστύοχος, καὶ τὸν Ἀλκιβιάδην ὁρῶν παῤ αὐτῷ μέγαν ὄντα, κατεμήνυσε τὰ τοῦ Φρυνίχου πρὸς αὐτούς.
 1	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	det	_	_
 2	γὰρ	γάρ	ADV	d--------	_	17	advmod	_	_
 3	Τισαφέρνην	Τισαφέρνης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
@@ -21281,7 +21281,7 @@
 9	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	det	_	_
 10	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	14	nsubj	_	_
 11	ὁρῶν	ὁράω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	4	conj	_	_
-12	παῤ	παρά	ADP	r--------	_	13	case	_	_
+12	παῤ	παρά	ADP	r--------	_	13	case	_	_
 13	αὐτῷ	αὐτός	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	14	obl	_	_
 14	μέγαν	μέγας	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
 15	ὄντα	εἰμί	VERB	v-sppama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	14	cop	_	SpaceAfter=No
@@ -22314,7 +22314,7 @@
 28	.	.	PUNCT	u--------	_	7	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@344
-# text = ἦσαν δὲ πολλοί, χάριτι τοῦ Ἀλκιβιάδου καὶ δἰ εὔνοιαν στρατευόμενοι προθύμως.
+# text = ἦσαν δὲ πολλοί, χάριτι τοῦ Ἀλκιβιάδου καὶ δἰ εὔνοιαν στρατευόμενοι προθύμως.
 1	ἦσαν	εἰμί	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 2	δὲ	δέ	ADV	d--------	_	3	advmod	_	_
 3	πολλοί	πολύς	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
@@ -22323,7 +22323,7 @@
 6	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
 7	Ἀλκιβιάδου	Ἀλκιβιάδης	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
 8	καὶ	καί	CCONJ	c--------	_	5	cc	_	_
-9	δἰ	διά	ADP	r--------	_	10	case	_	_
+9	δἰ	διά	ADP	r--------	_	10	case	_	_
 10	εὔνοιαν	εὔνοια	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	conj	_	_
 11	στρατευόμενοι	στρατεύω	VERB	v-pppemn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	3	advcl	_	_
 12	προθύμως	πρόθυμος	ADV	d--------	_	11	advmod	_	SpaceAfter=No
@@ -23519,12 +23519,12 @@
 20	·	·	PUNCT	u--------	_	11	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@3
-# text = τούτοις δὲ δεῖ σε τἀπιτήδεἰ ἐμβαλεῖν, ὥστ̓ ἦν κράτιστον μηδὲ καλέσαι μηδένα.
+# text = τούτοις δὲ δεῖ σε τἀπιτήδεἰ ἐμβαλεῖν, ὥστ̓ ἦν κράτιστον μηδὲ καλέσαι μηδένα.
 1	τούτοις	οὗτος	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
 2	δὲ	δέ	ADV	d--------	_	3	advmod	_	_
 3	δεῖ	δέω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	σε	σύ	PRON	p-s----a-	Case=Acc|Number=Sing	6	nsubj	_	_
-5	τἀπιτήδεἰ	ἐπιτήδειος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
+5	τἀπιτήδεἰ	ἐπιτήδειος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	6	obj	_	_
 6	ἐμβαλεῖν	ἐμβάλλω	VERB	v--ana---	Tense=Past|VerbForm=Inf|Voice=Act	3	csubj	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	8	punct	_	_
 8	ὥστ̓	ὥστε	SCONJ	c--------	_	10	mark	_	_
@@ -23766,10 +23766,10 @@
 26	·	·	PUNCT	u--------	_	1	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@24
-# text = τὸ καὶ ζωάγρἰ ὀφέλλει.
+# text = τὸ καὶ ζωάγρἰ ὀφέλλει.
 1	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	2	advmod	_	_
 2	καὶ	καί	ADV	d--------	_	4	advmod	_	_
-3	ζωάγρἰ	ζωάγρια	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
+3	ζωάγρἰ	ζωάγρια	NOUN	n-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 4	ὀφέλλει	ὀφέλλω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	u--------	_	4	punct	_	_
 
@@ -24334,12 +24334,12 @@
 26	.	.	PUNCT	u--------	_	7	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@87
-# text = καὶ ὁ Μενέλαος δὲ παῤ αὐτῷ φησιν·
+# text = καὶ ὁ Μενέλαος δὲ παῤ αὐτῷ φησιν·
 1	καὶ	καί	ADV	d--------	_	3	advmod	_	_
 2	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
 3	Μενέλαος	Μενέλαος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
 4	δὲ	δέ	ADV	d--------	_	7	advmod	_	_
-5	παῤ	παρά	ADP	r--------	_	6	case	_	_
+5	παῤ	παρά	ADP	r--------	_	6	case	_	_
 6	αὐτῷ	αὐτός	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	obl	_	_
 7	φησιν	φημί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 8	·	·	PUNCT	u--------	_	7	punct	_	_
@@ -24519,7 +24519,7 @@
 8	.	.	PUNCT	u--------	_	7	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@102
-# text = φυλάσσουσί τε αὐτὸν καὶ τριακόσιαι γυναῖκες, ὡς ἱστορεῖ ὁ Κυμαῖος Ἡρακλείδης ἐν ἀ Περσικῶν.
+# text = φυλάσσουσί τε αὐτὸν καὶ τριακόσιαι γυναῖκες, ὡς ἱστορεῖ ὁ Κυμαῖος Ἡρακλείδης ἐν ἀ Περσικῶν.
 1	φυλάσσουσί	φυλάσσω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	τε	τε	ADV	d--------	_	1	advmod	_	_
 3	αὐτὸν	αὐτός	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	_
@@ -24533,7 +24533,7 @@
 11	Κυμαῖος	Κυμαῖος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	12	nmod	_	_
 12	Ἡρακλείδης	Ἡρακλείδης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 13	ἐν	ἐν	ADP	r--------	_	14	case	_	_
-14	ἀ	ἀ	ADJ	a--------	_	9	obl	_	_
+14	ἀ	ἀ	ADJ	a--------	_	9	obl	_	_
 15	Περσικῶν	Περσικός	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	14	nmod	_	SpaceAfter=No
 16	.	.	PUNCT	u--------	_	1	punct	_	_
 
@@ -25294,12 +25294,12 @@
 6	·	·	PUNCT	u--------	_	5	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@158
-# text = οὐκ ἐδήδοκα κάνδαυλον οὐδ̓ ἀκήκὀ οὐδεπώποτε.
+# text = οὐκ ἐδήδοκα κάνδαυλον οὐδ̓ ἀκήκὀ οὐδεπώποτε.
 1	οὐκ	οὐ	ADV	d--------	_	2	advmod	_	_
 2	ἐδήδοκα	ἐσθίω	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	κάνδαυλον	κάνδαυλος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
 4	οὐδ̓	οὐδέ	CCONJ	c--------	_	2	cc	_	_
-5	ἀκήκὀ	ἀκούω	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
+5	ἀκήκὀ	ἀκούω	VERB	v1sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 6	οὐδεπώποτε	οὐδεπώποτε	ADV	d--------	_	5	advmod	_	SpaceAfter=No
 7	.	.	PUNCT	u--------	_	2	punct	_	_
 
@@ -25505,7 +25505,7 @@
 10	·	·	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@190
-# text = παρὰ δὲ Τυρρηνοῖς ἐκτόπως τρυφήσασιν ἱστορεῖ Τίμαιος ἐν τῇ ἀ ὅτι αἱ θεράπαιναι γυμναὶ τοῖς ἀνδράσι διακονοῦνται.
+# text = παρὰ δὲ Τυρρηνοῖς ἐκτόπως τρυφήσασιν ἱστορεῖ Τίμαιος ἐν τῇ ἀ ὅτι αἱ θεράπαιναι γυμναὶ τοῖς ἀνδράσι διακονοῦνται.
 1	παρὰ	παρά	ADP	r--------	_	3	case	_	_
 2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
 3	Τυρρηνοῖς	Τυρρηνός	NOUN	n-p---md-	Case=Dat|Gender=Masc|Number=Plur	17	obl	_	_
@@ -25515,7 +25515,7 @@
 7	Τίμαιος	Τίμαιος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	_
 8	ἐν	ἐν	ADP	r--------	_	9	case	_	_
 9	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	det	_	_
-10	ἀ	ἀ	ADJ	a--------	_	9	nmod	_	_
+10	ἀ	ἀ	ADJ	a--------	_	9	nmod	_	_
 11	ὅτι	ὅτι	SCONJ	c--------	_	17	mark	_	_
 12	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	13	det	_	_
 13	θεράπαιναι	θεράπαινα	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	17	nsubj	_	_
