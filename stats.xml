@@ -6,9 +6,12 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>13919</sentences><tokens>202989</tokens><words>202989</words><fused>0</fused></total>
+    <train><sentences>11476</sentences><tokens>159895</tokens><words>159895</words><fused>0</fused></train>
+    <dev><sentences>1137</sentences><tokens>22135</tokens><words>22135</words><fused>0</fused></dev>
+    <test><sentences>1306</sentences><tokens>20959</tokens><words>20959</words><fused>0</fused></test>
   </size>
   <lemmas unique="13413" /><!-- ὁ, ,, δέ, ., καί, ·, τε, οὐ, εἰμί, ἐγώ, αὐτός, μέν, ἐν, γάρ, οὗτος -->
-  <forms unique="41305" /><!-- ,, ., καὶ, ·, δ̓, δὲ, τε, ἐν, τῶν, μὲν, τὴν, τὸν, γὰρ, οὐ, οἱ -->
+  <forms unique="41304" /><!-- ,, ., καὶ, ·, δ̓, δὲ, τε, ἐν, τῶν, μὲν, τὴν, τὸν, γὰρ, οὐ, οἱ -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="14">
@@ -25,7 +28,7 @@
     <tag name="PUNCT">24963</tag><!-- ,, ., ·, ;, ̓, ..., ?, †, (, ) -->
     <tag name="SCONJ">2299</tag><!-- εἰ, ὡς, ὅτι, ὥστε, ὅπως, ὅτε, ἵνα, ὄφρα, ἐάν, πρίν -->
     <tag name="VERB">37711</tag><!-- εἰμί, ἔχω, φημί, γίγνομαι, λέγω, εἶπον, ποιέω, ἔρχομαι, δίδωμι, ἵστημι -->
-    <tag name="X">41</tag><!-- τίς, ἐυ, τέκμαρ, δυώδεκα, χρεών, Λάιος, Μηκιστηι, Πευκεί, ἠ, πολυ -->
+    <tag name="X">41</tag><!-- τίς, ἐυ, τέκμαρ, δυώδεκα, χρεών, Λάιος, Μηκιστηι, Πευκεί, πολυ, σπάκα -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="33">
