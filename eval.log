@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Ancient_Greek-Perseus:
-commit c1476671bcf542c839db2ffee6e0a2de4e3cd3ce
-Merge: 82e1839 7671565
+commit 5980e954959e33932d01be099d6f59c2261d896e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri May 10 20:52:47 2019 +0200
 Size: counted 202989 of 202989 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.626303580763.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -23,12 +23,48 @@ Udapi: found 33788 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 202989 words.
 Genres: found 1 out of 17 known.
 validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
-*** PASSED ***
+[Line 19 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3 Node 16]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 54 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@7 Node 8]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'PRON'
+[Line 84 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@8 Node 12]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 101 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@9 Node 8]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 121 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@10 Node 7]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 131 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@10 Node 17]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 143 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@10 Node 29]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 156 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@10 Node 42]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 229 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 28]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+...suppressing further errors regarding Syntax
+Syntax errors: 1140
+*** FAILED *** with 1140 errors
+Exit code: 1
 validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
-*** PASSED ***
+[Line 12 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 30 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198 Node 4]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 31 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 55 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@199 Node 7]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 64 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@200 Node 5]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 87 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@200 Node 28]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [24, 25, 26]
+[Line 104 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@201 Node 9]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [2]
+[Line 104 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@201 Node 9]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [2, 3, 4, 5, 6, 7]
+[Line 119 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@202 Node 9]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [4, 5, 6, 7]
+...suppressing further errors regarding Syntax
+Syntax errors: 922
+*** FAILED *** with 922 errors
+Exit code: 1
 validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 54 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1147 Node 8]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 72 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1150 Node 3]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 100 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151 Node 1]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 111 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151 Node 12]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [18]
+[Line 121 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151 Node 22]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 156 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1154 Node 11]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 160 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1154 Node 15]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 165 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1154 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 179 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1155 Node 9]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+...suppressing further errors regarding Syntax
+Syntax errors: 7558
+*** FAILED *** with 7558 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
@@ -37,6 +73,6 @@ Validity: 1
 (weight=0.0769230769230769) * (score{tags}=0.658823529411765) = 0.0506787330316742
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.540540540540541) = 0.0415800415800416
-(TOTAL score=0.47143943106878) * (availability=1) * (validity=1) = 0.47143943106878
-STARS = 2.5
-UD_Ancient_Greek-Perseus	0.47143943106878	2.5
+(TOTAL score=0.47143943106878) * (availability=1) * (validity=0.01) = 0.0047143943106878
+STARS = 0
+UD_Ancient_Greek-Perseus	0.0047143943106878	0
