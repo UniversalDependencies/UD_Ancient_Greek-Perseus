@@ -100,6 +100,8 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 # Changelog
 
+* 2021-05-15 v2.8
+  * Fixed non-projective punctuation using Udapi ud.FixPunct.
 * 2018-04-15 v2.2
   * Repository renamed from UD_Ancient_Greek to UD_Ancient_Greek-Perseus.
 
