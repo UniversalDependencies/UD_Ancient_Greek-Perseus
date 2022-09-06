@@ -17,14 +17,14 @@
   <tags unique="15">
     <tag name="ADJ">21626</tag><!-- πᾶς, αὐτός, πολύς, οὗτος, μέγας, ἄλλος, Ἀχαιός, φίλος, κακός, πρῶτος -->
     <tag name="ADP">10649</tag><!-- ἐν, εἰς, ἐπί, ἐκ, κατά, πρός, περί, ὑπό, ἀπό, παρά -->
-    <tag name="ADV">19006</tag><!-- δέ, οὐ, καί, ὡς, μέν, γάρ, νῦν, τε, ἀλλά, ἔπειτα -->
+    <tag name="ADV">19008</tag><!-- δέ, οὐ, καί, ὡς, μέν, γάρ, νῦν, τε, ἀλλά, ἔπειτα -->
     <tag name="AUX">1864</tag><!-- εἰμί -->
     <tag name="CCONJ">6695</tag><!-- καί, δέ, ἀλλά, ἤ, ἐπεί, μή, ἠδέ, τε, δε, ἀτάρ -->
     <tag name="DET">11831</tag><!-- ὁ, ὀ, οὗ, ὅς, μήν, τίς -->
     <tag name="INTJ">424</tag><!-- ὦ, οἴμοι, πόποι, εἰ, αἰαῖ, εἴθε, ὤμοι, ἆ, ἒ, ἤ -->
     <tag name="NOUN">41252</tag><!-- ἀνήρ, θεός, ναῦς, ζεύς, χείρ, τρώς, πόλις, θυμός, παῖς, ἵππος -->
     <tag name="NUM">230</tag><!-- δύο, εἴκοσι, τρεῖς, τεσσαράκοντα, ἑκατόν, πέντε, ἐννέα, πεντήκοντα, τριάκοντα, δέκα -->
-    <tag name="PART">13629</tag><!-- δέ, τε, γάρ, μέν, ἄν, ἄρα, γε, δή, ἀτάρ, μή -->
+    <tag name="PART">13627</tag><!-- δέ, τε, γάρ, μέν, ἄν, ἄρα, γε, δή, ἀτάρ, μή -->
     <tag name="PRON">12633</tag><!-- ὁ, ἐγώ, ὅς, σύ, αὐτός, τις, οὗτος, ὅδε, ἕ, μιν -->
     <tag name="PUNCT">24963</tag><!-- ,, ., ·, ;, ̓, ..., ?, †, (, ) -->
     <tag name="SCONJ">2299</tag><!-- εἰ, ὡς, ὅτι, ὥστε, ὅπως, ὅτε, ἵνα, ὄφρα, ἐάν, πρίν -->
@@ -70,8 +70,8 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="25">
     <dep name="acl">1490</dep>
-    <dep name="advcl">9183</dep>
-    <dep name="advmod">30976</dep>
+    <dep name="advcl">9675</dep>
+    <dep name="advmod">30490</dep>
     <dep name="amod">1206</dep>
     <dep name="appos">372</dep>
     <dep name="aux">41</dep>
@@ -83,14 +83,14 @@
     <dep name="csubj">455</dep>
     <dep name="det">11812</dep>
     <dep name="iobj">1449</dep>
-    <dep name="mark">2754</dep>
+    <dep name="mark">2755</dep>
     <dep name="nmod">21679</dep>
     <dep name="nsubj">13232</dep>
     <dep name="nummod">202</dep>
     <dep name="obj">17530</dep>
     <dep name="obl">12411</dep>
     <dep name="parataxis">102</dep>
-    <dep name="punct">24970</dep>
+    <dep name="punct">24963</dep>
     <dep name="root">13919</dep>
     <dep name="vocative">1045</dep>
     <dep name="xcomp">5593</dep>
