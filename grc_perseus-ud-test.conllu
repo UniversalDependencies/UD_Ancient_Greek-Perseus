@@ -7026,7 +7026,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@723
 # text = τρυφῆς οὖν δοῦλος ἦν καὶ κακουργίας, διὰ μὲν τῆς χώρας τετρακύκλους ἀπήνας περιαγόμενος καὶ ἵππους καὶ θεράποντας ὡραίους καὶ παραδρομὴν ἀνάγωγον κολάκων τε καὶ παίδων στρατιωτικῶν.
 1	τρυφῆς	τρυφή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
-2	οὖν	οὖν	ADV	d--------	_	3	punct	_	_
+2	οὖν	οὖν	ADV	d--------	_	3	advmod	_	_
 3	δοῦλος	δοῦλος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 4	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	cop	_	_
 5	καὶ	καί	CCONJ	c--------	_	1	cc	_	_
