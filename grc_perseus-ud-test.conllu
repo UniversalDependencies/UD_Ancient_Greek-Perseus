@@ -10777,7 +10777,7 @@
 # text = ἢ δυοῖν χάριν ταῦτα περιφέρουσιν·
 1	ἢ	ἤ	ADV	d--------	_	5	advmod	_	_
 2	δυοῖν	δύο	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	3	nmod	_	_
-3	χάριν	χάριν	ADP	r--------	_	5	advmod	_	_
+3	χάριν	χάριν	ADP	r--------	_	5	case	_	_
 4	ταῦτα	οὗτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
 5	περιφέρουσιν	περιφέρω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 6	·	·	PUNCT	u--------	_	5	punct	_	_

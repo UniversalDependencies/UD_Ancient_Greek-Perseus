@@ -71,11 +71,11 @@
   <deps unique="26">
     <dep name="acl">1490</dep>
     <dep name="advcl">9675</dep>
-    <dep name="advmod">30041</dep>
+    <dep name="advmod">29437</dep>
     <dep name="amod">1212</dep>
     <dep name="appos">372</dep>
     <dep name="aux">41</dep>
-    <dep name="case">10080</dep>
+    <dep name="case">10684</dep>
     <dep name="cc">10242</dep>
     <dep name="ccomp">1383</dep>
     <dep name="conj">8987</dep>
