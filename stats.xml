@@ -68,27 +68,28 @@
     <feat name="Voice" value="Pass" upos="VERB">1425</feat><!-- ἐτύχθη, ἀχνύμενοί, ἐπράχθη, ἐρασθεὶς, δαμῆναι, θωρηχθέντες, τυπεὶς, ἠράσθη, ἤχθη, δαμέντες -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="25">
+  <deps unique="26">
     <dep name="acl">1490</dep>
     <dep name="advcl">9675</dep>
-    <dep name="advmod">30490</dep>
-    <dep name="amod">1206</dep>
+    <dep name="advmod">30116</dep>
+    <dep name="amod">1212</dep>
     <dep name="appos">372</dep>
     <dep name="aux">41</dep>
-    <dep name="case">10089</dep>
-    <dep name="cc">10246</dep>
+    <dep name="case">10080</dep>
+    <dep name="cc">10242</dep>
     <dep name="ccomp">1383</dep>
-    <dep name="conj">8986</dep>
+    <dep name="conj">8987</dep>
     <dep name="cop">1864</dep>
     <dep name="csubj">455</dep>
     <dep name="det">11812</dep>
+    <dep name="discourse">374</dep>
     <dep name="iobj">1449</dep>
     <dep name="mark">2755</dep>
-    <dep name="nmod">21679</dep>
+    <dep name="nmod">21683</dep>
     <dep name="nsubj">13232</dep>
     <dep name="nummod">202</dep>
     <dep name="obj">17530</dep>
-    <dep name="obl">12411</dep>
+    <dep name="obl">12413</dep>
     <dep name="parataxis">102</dep>
     <dep name="punct">24963</dep>
     <dep name="root">13919</dep>

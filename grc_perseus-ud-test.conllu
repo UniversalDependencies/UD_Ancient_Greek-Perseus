@@ -521,7 +521,7 @@
 1	παῤ	παρά	ADP	r--------	_	2	case	_	_
 2	ὑμῖν	σύ	PRON	p2p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=2	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	οὗτοι	οὗτος	PRON	p-p---mv-	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	αἱ	ὁ	DET	l-p---fn-	Case=Nom|Gender=Fem|Number=Plur	8	det	_	_
@@ -2222,7 +2222,7 @@
 # text = χαῖῤ, ὦ διαπόντιον στράτευμα, τί πράττομεν;
 1	χαῖῤ	χαίρω	VERB	v2spma---	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	5	punct	_	_
-3	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+3	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 4	διαπόντιον	διαπόντιος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	nmod	_	_
 5	στράτευμα	στράτευμα	NOUN	n-s---nv-	Case=Voc|Gender=Neut|Number=Sing	1	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	8	punct	_	_
@@ -3069,7 +3069,7 @@
 1	Συρακοσίαν	Συρακούσιος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
 2	δέ	δέ	ADV	d--------	_	17	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	φίλε	φίλος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	17	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	τράπεζαν	τράπεζα	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	17	obj	_	_
@@ -7991,7 +7991,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@786
 # text = ὦ τάν, κατανοεῖς τίς ποτ̓ ἐστὶν οὑτοσὶ ὁ γέρων;
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	τάν	τᾶν	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	κατανοεῖς	κατανοέω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -8067,7 +8067,7 @@
 1	ἐμοὶ	ἐγώ	PRON	p1s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1	9	iobj	_	_
 2	μέν	μέν	ADV	d--------	_	9	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	ἄνδρες	ἀνήρ	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	πολλάκις	πολλάκις	ADV	d--------	_	9	advmod	_	_
@@ -8521,7 +8521,7 @@
 1	περὶ	περί	ADP	r--------	_	2	case	_	_
 2	γαστέρα	γαστήρ	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	6	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	6	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	6	discourse	_	_
 5	φυσιολόγε	φυσιόλογος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	6	nmod	_	_
 6	Τιμόκρατες	Τιμοκράτης	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	17	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	6	punct	_	_
@@ -12266,7 +12266,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@87
 # text = ὦ δυστυχεῖς ἡμεῖς γαμέται πεπρακότες τὴν τοῦ βίου παρρησίαν καὶ τὴν τρυφήν, γυναιξὶ δοῦλοι ζῶμεν ἀντ̓ ἐλευθέρων.
-1	ὦ	ὦ	INTJ	i--------	_	3	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	3	discourse	_	_
 2	δυστυχεῖς	δυστυχής	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	3	nmod	_	_
 3	ἡμεῖς	ἐγώ	PRON	p1p---mv-	Case=Voc|Gender=Masc|Number=Plur|Person=1	16	vocative	_	_
 4	γαμέται	γαμέτης	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	3	nmod	_	_
@@ -12340,7 +12340,7 @@
 1	ὡς	ὡς	ADV	d--------	_	2	advmod	_	_
 2	τακερόν	τακερός	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	10	amod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	Ζεῦ	Ζεύς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	11	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	καὶ	καί	CCONJ	c--------	_	2	cc	_	_
@@ -12417,7 +12417,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@107
 # text = ὦ Ζεῦ πολυτίμητ̓, εἶτ̓ ἐγὼ κακῶς ποτε ἐρῶ γυναῖκας;
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	Ζεῦ	Ζεύς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	9	vocative	_	_
 3	πολυτίμητ̓	πολυτίμητος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	2	punct	_	_
@@ -12448,7 +12448,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@114
 # text = οἴμοι δείλαιος, ταχέως γέ μ̓ αἱ χρησταὶ γυναῖκες ἐπέλιπον, τῶν δ̓ αὖ πονηρῶν ἔτι λέγειν πολλὰς ἔχω.
-1	οἴμοι	οἴμοι	INTJ	i--------	_	10	advmod	_	_
+1	οἴμοι	οἴμοι	INTJ	i--------	_	10	discourse	_	_
 2	δείλαιος	δείλαιος	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	19	xcomp	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	ταχέως	ταχέως	ADV	d--------	_	10	advmod	_	_
@@ -12629,7 +12629,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@139
 # text = ὦ Ζεῦ, τί χρὴ γυναῖκας ἐξειπεῖν κακόν;
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	Ζεῦ	Ζεύς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	τί	τις	PRON	p-s---na-	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
@@ -13079,7 +13079,7 @@
 1	σὺ	σύ	PRON	p2s---mn-	Case=Nom|Gender=Masc|Number=Sing|Person=2	13	nsubj	_	_
 2	δ̓	δέ	ADV	d--------	_	13	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	9	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	9	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	9	discourse	_	_
 5	τύραννε	τύραννος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	9	nmod	_	_
 6	θεῶν	θέα	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	5	nmod	_	_
 7	τε	τε	CCONJ	c--------	_	6	cc	_	_
@@ -13835,7 +13835,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@253
 # text = ὦ παῖ παρθένιον βλέπων, δίζημαί σε, σὺ δ̓ οὐκ ἄεις, οὐκ εἰδὼς ὅτι τῆς ἐμῆς ψυχῆς ἡνιοχεύεις.
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	παῖ	παῖς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	_
 3	παρθένιον	παρθένιος	ADJ	a-s---na-	Case=Acc|Gender=Neut|Number=Sing	4	advmod	_	_
 4	βλέπων	βλέπω	VERB	v-sppamv-	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	nmod	_	SpaceAfter=No
@@ -14549,7 +14549,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@316
 # text = ὢ τῆς καλῆς σου πολυμαθίας, ὡς κατ̓ οὐδὲν ἐμιμήσω Θεόμανδρον τὸν Κυρηναῖον, ὅν φησι Θεόφραστος ἐν τῷ περὶ Εὐδαιμονίας περιιόντα ἐπαγγέλλεσθαι διδάσκειν εὐτυχίαν ἐρωτοδιδάσκαλε·
-1	ὢ	ὦ	INTJ	i--------	_	5	advmod	_	_
+1	ὢ	ὦ	INTJ	i--------	_	5	discourse	_	_
 2	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	det	_	_
 3	καλῆς	καλός	ADJ	a-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 4	σου	σύ	PRON	p2s---mg-	Case=Gen|Gender=Masc|Number=Sing|Person=2	5	nmod	_	_
@@ -15219,7 +15219,7 @@
 2	πῶς	πῶς	ADV	d--------	_	11	advmod	_	_
 3	ποτ̓	ποτε	ADV	d--------	_	11	advmod	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	8	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	8	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	8	discourse	_	_
 6	δέσποινα	δέσποινα	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	8	nmod	_	_
 7	ποντία	πόντιος	ADJ	a-s---fv-	Case=Voc|Gender=Fem|Number=Sing	6	nmod	_	_
 8	Κύπρι	Κύπρις	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	11	vocative	_	SpaceAfter=No
@@ -15528,7 +15528,7 @@
 4	γέγονεν	γίγνομαι	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ὥστ̓	ὥστε	SCONJ	c--------	_	15	mark	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	8	punct	_	_
-7	ὦ	ὦ	INTJ	i--------	_	8	advmod	_	_
+7	ὦ	ὦ	INTJ	i--------	_	8	discourse	_	_
 8	φίλτατε	φίλτατος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	SpaceAfter=No
 9	,	,	PUNCT	u--------	_	8	punct	_	_
 10	τἀργύριον	ἀργύριον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
@@ -16381,7 +16381,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@491
 # text = ὦ Κύπρου δέσποινα, τεὸν δεῦτ̓ ἐς ἄλσος φορβάδων κορᾶν ἀγέλαν ἑκατόγγυιον Ξενοφῶν τελέαις ἐπήγαγ̓ εὐχωλαῖς ἰανθείς.
-1	ὦ	ὦ	INTJ	i--------	_	3	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	3	discourse	_	_
 2	Κύπρου	Κύπρος	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	_
 3	δέσποινα	δέσποινα	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	15	vocative	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	3	punct	_	_
@@ -16416,7 +16416,7 @@
 3	ἐπαγορίας	ἐπηγορία	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	obl	_	_
 4	ἔπορεν	πόρω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	7	punct	_	_
-6	ὦ	ὦ	INTJ	i--------	_	7	advmod	_	_
+6	ὦ	ὦ	INTJ	i--------	_	7	discourse	_	_
 7	παῖδες	παῖς	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	vocative	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	7	punct	_	_
 9	ἐρατειναῖς	ἐρατεινός	ADJ	a-p---fd-	Case=Dat|Gender=Fem|Number=Plur	11	nmod	_	_
@@ -16906,7 +16906,7 @@
 # text = ἡμεῖς, ὦ θύγατερ Ὀδάτι, νῦν ποιούμεθα τοὺς σοὺς γάμους.
 1	ἡμεῖς	ἐγώ	PRON	p1p---mn-	Case=Nom|Gender=Masc|Number=Plur|Person=1	8	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	4	punct	_	_
-3	ὦ	ὦ	INTJ	i--------	_	4	advmod	_	_
+3	ὦ	ὦ	INTJ	i--------	_	4	discourse	_	_
 4	θύγατερ	θυγάτηρ	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	8	vocative	_	_
 5	Ὀδάτι	̓Οδάτις	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	4	punct	_	_
@@ -17061,7 +17061,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@535
 # text = ὦ Ὀδάτι, πάρειμι δή σοι καθάπερ ἠξίωσας, ἐγὼ Ζαριάδρης.̓
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	Ὀδάτι	̓Οδάτις	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	4	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	πάρειμι	πάρειμι	VERB	v1spia---	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -18382,7 +18382,7 @@
 10	,	,	PUNCT	u--------	_	11	punct	_	_
 11	τἀγγεῖον	ἀγγεῖον	NOUN	n-s---na-	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	SpaceAfter=No
 12	,	,	PUNCT	u--------	_	14	punct	_	_
-13	ὦ	ὦ	INTJ	i--------	_	14	advmod	_	_
+13	ὦ	ὦ	INTJ	i--------	_	14	discourse	_	_
 14	Γνάθαιν̓	Γνάθαινα	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	16	vocative	_	SpaceAfter=No
 15	,	,	PUNCT	u--------	_	14	punct	_	_
 16	ἔχεις	ἔχω	VERB	v2spia---	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	SpaceAfter=No
@@ -18398,7 +18398,7 @@
 6	,	,	PUNCT	u--------	_	7	punct	_	_
 7	ἐπιμελῶς	ἐπιμελής	ADV	d--------	_	17	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	10	punct	_	_
-9	ὦ	ὦ	INTJ	i--------	_	10	advmod	_	_
+9	ὦ	ὦ	INTJ	i--------	_	10	discourse	_	_
 10	Δίφιλε	Δίφιλος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	17	vocative	_	SpaceAfter=No
 11	,	,	PUNCT	u--------	_	10	punct	_	_
 12	εἰς	εἰς	ADP	r--------	_	13	case	_	_
@@ -18602,7 +18602,7 @@
 12	ἡλικίᾳ	ἡλικία	NOUN	n-p---fn-	Case=Nom|Gender=Fem|Number=Plur	14	obl	_	_
 13	σφόδρα	σφόδρα	ADV	d--------	_	14	advmod	_	_
 14	νέον	νέος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	conj	_	_
-15	ὦ	ὦ	INTJ	i--------	_	20	advmod	_	_
+15	ὦ	ὦ	INTJ	i--------	_	20	discourse	_	_
 16	πρὸς	πρός	ADP	r--------	_	18	case	_	_
 17	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	18	det	_	_
 18	θεῶν	θέα	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	28	vocative	_	SpaceAfter=No
@@ -18710,7 +18710,7 @@
 1	δικαιότερον	δίκαιος	ADJ	a-s---nnc	Case=Nom|Degree=Cmp|Gender=Neut|Number=Sing	0	root	_	_
 2	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	τέκνον	τέκνον	NOUN	n-s---nv-	Case=Voc|Gender=Neut|Number=Sing	1	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	νὴ	νή	ADP	r--------	_	9	case	_	_
@@ -19023,7 +19023,7 @@
 8	ἀλλὰ	ἀλλὰ	CCONJ	c--------	_	3	cc	_	_
 9	στενοχωρῶν	στενοχωρέω	VERB	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	3	conj	_	_
 10	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	ccomp	_	_
-11	ὦ	ὦ	INTJ	i--------	_	13	advmod	_	_
+11	ὦ	ὦ	INTJ	i--------	_	13	discourse	_	_
 12	τρισάθλιε	τρισάθλιος	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	13	nmod	_	_
 13	ὀνηλάτ̓	ὀνηλάτης	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	27	vocative	_	SpaceAfter=No
 14	,	,	PUNCT	u--------	_	13	punct	_	_
@@ -19095,7 +19095,7 @@
 2	,	,	PUNCT	u--------	_	1	punct	_	_
 3	φησίν	φημί	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	6	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	6	discourse	_	_
 6	ποιητά	ποιητής	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	_
 7	μοι	ἐγώ	PRON	p1s---md-	Case=Dat|Gender=Masc|Number=Sing|Person=1	1	iobj	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	11	punct	_	_
@@ -19638,7 +19638,7 @@
 28	ἔχομεν	ἔχω	VERB	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	26	ccomp	_	_
 29	αἰτίαν	αἰτία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	28	obj	_	SpaceAfter=No
 30	,	,	PUNCT	u--------	_	32	punct	_	_
-31	ὦ	ὦ	INTJ	i--------	_	32	advmod	_	_
+31	ὦ	ὦ	INTJ	i--------	_	32	discourse	_	_
 32	Στίλπων	Στίλπων	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	28	vocative	_	SpaceAfter=No
 33	.	.	PUNCT	u--------	_	26	punct	_	_
 
@@ -19687,7 +19687,7 @@
 15	,	,	PUNCT	u--------	_	13	punct	_	_
 16	ἔφη	φημί	VERB	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 17	,	,	PUNCT	u--------	_	23	punct	_	_
-18	ὦ	ὦ	INTJ	i--------	_	19	advmod	_	_
+18	ὦ	ὦ	INTJ	i--------	_	19	discourse	_	_
 19	νεανίσκε	νεανίσκος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	23	vocative	_	SpaceAfter=No
 20	,	,	PUNCT	u--------	_	19	punct	_	_
 21	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	22	det	_	_
@@ -21010,7 +21010,7 @@
 1	μακαρίζω	μακαρίζω	VERB	v1spsa---	Mood=Sub|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 2	σε	σύ	PRON	p-s---ma-	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	οὗτος	οὗτος	PRON	p-s---mv-	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	ὅτι	ὅτι	SCONJ	c--------	_	13	mark	_	_
@@ -21496,7 +21496,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@895
 # text = ἆ δειλοὶ νεότητος ἀπαντήσαντες ἐκείνης πρωτοπόρου, δἰ ὅσης ἤλθετε πυρκαιῆς.
-1	ἆ	ἆ	INTJ	i--------	_	2	advmod	_	_
+1	ἆ	ἆ	INTJ	i--------	_	2	discourse	_	_
 2	δειλοὶ	δειλός	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	10	vocative	_	_
 3	νεότητος	νεότης	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
 4	ἀπαντήσαντες	ἀπαντάω	VERB	v-papamv-	Case=Voc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	2	nmod	_	_
@@ -21687,7 +21687,7 @@
 34	πεῦσιν	πεῦσις	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	SpaceAfter=No
 35	,	,	PUNCT	u--------	_	36	punct	_	_
 36	Φοῖνιξ	φοῖνιξ	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	33	vocative	_	_
-37	ἄττα	ἄττα	INTJ	i--------	_	38	advmod	_	_
+37	ἄττα	ἄττα	INTJ	i--------	_	38	discourse	_	_
 38	γεραιέ	γεραιός	ADJ	a-s---mv-	Case=Voc|Gender=Masc|Number=Sing	36	amod	_	SpaceAfter=No
 39	.	.	PUNCT	u--------	_	33	punct	_	_
 
@@ -24689,7 +24689,7 @@
 # text = κεῖνον, ὦ χρυσόθρονε Μοῦσ̓, ἔνισπες ὕμνον, ἐκ τᾶς καλλιγύναικος ἐσθλᾶς Τήιος χώρας ὃν ἄειδε τερπνῶς πρέσβυς ἀγαυός.
 1	κεῖνον	κεῖνος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	5	punct	_	_
-3	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+3	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 4	χρυσόθρονε	χρυσόθρονος	ADJ	a-s---fv-	Case=Voc|Gender=Fem|Number=Sing	5	nmod	_	_
 5	Μοῦσ̓	Μοῦσα	NOUN	n-s---fv-	Case=Voc|Gender=Fem|Number=Sing	7	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
@@ -24746,7 +24746,7 @@
 1	ταῦθ̓	οὗτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	9	obl	_	_
 2	ὑμῖν	σύ	PRON	p2p---md-	Case=Dat|Gender=Masc|Number=Plur|Person=2	13	iobj	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	ἑταῖροι	ἑταῖρος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	9	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	οὐκ	οὐ	ADV	d--------	_	9	advmod	_	_

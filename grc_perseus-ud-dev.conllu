@@ -3813,7 +3813,7 @@
 # text = ἀδικεῖτε, ὦ ἄνδρες Ἀθηναῖοι, πολέμου ἄρχοντες καὶ σπονδὰς λύοντες·
 1	ἀδικεῖτε	ἀδικέω	VERB	v2ppma---	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	4	punct	_	_
-3	ὦ	ὦ	INTJ	i--------	_	4	advmod	_	_
+3	ὦ	ὦ	INTJ	i--------	_	4	discourse	_	_
 4	ἄνδρες	ἀνήρ	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	_
 5	Ἀθηναῖοι	Ἀθηναῖος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	4	punct	_	_
@@ -4534,7 +4534,7 @@
 # text = Καλλίας δ̓ αὖ ὁ τῶν Ἀθηναίων στρατηγὸς καὶ οἱ ξυνάρχοντες τοὺς μὲν Μακεδόνας ἱππέας καὶ τῶν ξυμμάχων ὀλίγους ἐπὶ Ὀλύνθου ἀποπέμπουσιν, ὅπως εἴργωσι τοὺς ἐκεῖθεν ἐπιβοηθεῖν, αὐτοὶ δὲ ἀναστήσαντες τὸ στρατόπεδον ἐχώρουν ἐπὶ τὴν Ποτείδαιαν.
 1	Καλλίας	Καλλίας	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	_
 2	δ̓	δέ	ADV	d--------	_	21	advmod	_	_
-3	αὖ	αὗ	INTJ	i--------	_	21	advmod	_	_
+3	αὖ	αὗ	INTJ	i--------	_	21	discourse	_	_
 4	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	7	det	_	_
 5	τῶν	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	6	det	_	_
 6	Ἀθηναίων	Ἀθήναιος	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
@@ -5001,7 +5001,7 @@
 2	πιστὸν	πιστός	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
 3	ὑμᾶς	σύ	PRON	p-p---ma-	Case=Acc|Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	6	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	6	discourse	_	_
 6	Λακεδαιμόνιοι	Λακεδαιμόνιος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	22	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	6	punct	_	_
 8	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	12	det	_	_
@@ -5219,7 +5219,7 @@
 4	μόνοι	μόνος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	xcomp	_	_
 5	Ἑλλήνων	Ἕλλην	NOUN	n-p---mg-	Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	4	punct	_	_
-7	ὦ	ὦ	INTJ	i--------	_	8	advmod	_	_
+7	ὦ	ὦ	INTJ	i--------	_	8	discourse	_	_
 8	Λακεδαιμόνιοι	Λακεδαιμόνιος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	1	vocative	_	SpaceAfter=No
 9	,	,	PUNCT	u--------	_	18	punct	_	_
 10	οὐ	οὐ	ADV	d--------	_	12	advmod	_	_
@@ -5746,7 +5746,7 @@
 2	ἄξιοί	ἄξιος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	0	root	_	_
 3	ἐσμεν	εἰμί	AUX	v1ppia---	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	6	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	6	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	6	discourse	_	_
 6	Λακεδαιμόνιοι	Λακεδαιμόνιος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
 7	,	,	PUNCT	u--------	_	6	punct	_	_
 8	καὶ	καί	ADV	d--------	_	9	advmod	_	_
@@ -5816,7 +5816,7 @@
 1	ὑμεῖς	σύ	PRON	p-p---mn-	Case=Nom|Gender=Masc|Number=Plur	17	nsubj	_	_
 2	γοῦν	γοῦν	ADV	d--------	_	17	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	5	punct	_	_
-4	ὦ	ὦ	INTJ	i--------	_	5	advmod	_	_
+4	ὦ	ὦ	INTJ	i--------	_	5	discourse	_	_
 5	Λακεδαιμόνιοι	Λακεδαιμόνιος	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	17	vocative	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
 7	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	11	det	_	_
@@ -9351,7 +9351,7 @@
 2	μὲν	μέν	ADV	d--------	_	12	advmod	_	_
 3	Λακεδαιμονίους	Λακεδαιμόνιος	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	3	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	6	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	6	discourse	_	_
 6	ἄνδρες	ἀνήρ	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	_
 7	ξύμμαχοι	σύμμαχος	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	6	punct	_	_
@@ -9758,7 +9758,7 @@
 4	ἀνάγκην	ἀνάγκη	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	_
 5	ἀφῖχθαι	ἀφικνέομαι	VERB	v--rne---	Aspect=Perf|Tense=Past|VerbForm=Inf|Voice=Mid	2	xcomp	_	SpaceAfter=No
 6	,	,	PUNCT	u--------	_	5	punct	_	_
-7	ὦ	ὦ	INTJ	i--------	_	8	advmod	_	_
+7	ὦ	ὦ	INTJ	i--------	_	8	discourse	_	_
 8	ἄνδρες	ἀνήρ	NOUN	n-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	_
 9	ξύμμαχοι	σύμμαχος	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	u--------	_	8	punct	_	_
@@ -14798,7 +14798,7 @@
 
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@198
 # text = ὦ ξένε, οὐδεὶς γίνεται μοιχὸς παῤ ἡμῖν.
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	ξένε	ξένος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	οὐδεὶς	οὐδείς	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	nmod	_	_
@@ -15877,7 +15877,7 @@
 9	ἀχρήστων	ἄχρηστος	ADJ	a-p---ng-	Case=Gen|Gender=Neut|Number=Plur	7	amod	_	_
 10	διαλεχθέντος	διαλέγω	VERB	v-sappmg-	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	15	advcl	_	SpaceAfter=No
 11	,	,	PUNCT	u--------	_	10	punct	_	_
-12	ὦ	ὦ	INTJ	i--------	_	13	advmod	_	_
+12	ὦ	ὦ	INTJ	i--------	_	13	discourse	_	_
 13	ξένε	ξένος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	20	vocative	_	SpaceAfter=No
 14	,	,	PUNCT	u--------	_	13	punct	_	_
 15	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -15972,7 +15972,7 @@
 21	,	,	PUNCT	u--------	_	18	punct	_	_
 22	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 23	,	,	PUNCT	u--------	_	25	punct	_	_
-24	ὦ	ὦ	INTJ	i--------	_	25	advmod	_	_
+24	ὦ	ὦ	INTJ	i--------	_	25	discourse	_	_
 25	ξένε	ξένος	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	18	vocative	_	SpaceAfter=No
 26	,	,	PUNCT	u--------	_	25	punct	_	_
 27	φιλοπολίταν	φιλοπολίτης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	28	xcomp	_	_
@@ -16337,7 +16337,7 @@
 27	σοι	σύ	PRON	p-s---md-	Case=Dat|Gender=Masc|Number=Sing	33	xcomp	_	_
 28	πλέον	πλέως	ADJ	a-s---nn-	Case=Nom|Gender=Neut|Number=Sing	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	u--------	_	31	punct	_	_
-30	ὦ	ὦ	INTJ	i--------	_	31	advmod	_	_
+30	ὦ	ὦ	INTJ	i--------	_	31	discourse	_	_
 31	Λάκων	Λάκων	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	33	vocative	_	SpaceAfter=No
 32	,	,	PUNCT	u--------	_	31	punct	_	_
 33	γέγονε	γίγνομαι	VERB	v3sria---	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	23	ccomp	_	_
@@ -16647,7 +16647,7 @@
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	7	punct	_	_
-6	ὦ	ὦ	INTJ	i--------	_	7	advmod	_	_
+6	ὦ	ὦ	INTJ	i--------	_	7	discourse	_	_
 7	ξένοι	ξένος	ADJ	a-p---mv-	Case=Voc|Gender=Masc|Number=Plur	2	vocative	_	SpaceAfter=No
 8	·	·	PUNCT	u--------	_	4	punct	_	_
 
@@ -19091,7 +19091,7 @@
 2	δ̓	δέ	ADV	d--------	_	3	advmod	_	_
 3	ἀείσομαι	ἀείδω	VERB	v1sfim---	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	7	punct	_	_
-5	ὦ	ὦ	INTJ	i--------	_	7	advmod	_	_
+5	ὦ	ὦ	INTJ	i--------	_	7	discourse	_	_
 6	Κλεινίου	Κλεινίας	NOUN	n-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	_
 7	παῖ	παῖς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	3	vocative	_	SpaceAfter=No
 8	.	.	PUNCT	u--------	_	3	punct	_	_
@@ -20526,7 +20526,7 @@
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@205
 # text = ὦ φίλταθ̓ Ἑρμῆ, καὶ φυλάσσου, μὴ πεσὼν αὑτὸν παρακρούσῃ καὶ παράσχῃς διαβολὴν ἑτέρῳ Διοκλείδᾳ βουλομένῳ κακόν τι δρᾶν.
-1	ὦ	ὦ	INTJ	i--------	_	3	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	3	discourse	_	_
 2	φίλταθ̓	φίλτατος	ADJ	a-s---mvs	Case=Voc|Degree=Sup|Gender=Masc|Number=Sing	3	nmod	_	_
 3	Ἑρμῆ	Ἑρμῆς	NOUN	n-s---mv-	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	SpaceAfter=No
 4	,	,	PUNCT	u--------	_	3	punct	_	_
@@ -24056,7 +24056,7 @@
 # text = πόθεν, ὦ οὗτοι, τὴν περὶ τὰς ἐδωδὰς αὐτῷ σπουδὴν ἀνατίθετε, ἢ πόθεν παρῆλθεν εἰς τοὺς ἀνθρώπους τὸ τῆς λοιβαίας κύλικος μηδὲν ὑπολείπεσθαι, εἰ μὴ τὰ περὶ τὰς ἡδονὰς ἐδοκίμαζεν, ἢ διὰ τί τὰ θερμὰ λουτρὰ τὰ φαινόμενα ἐκ τῆς γῆς πάντες Ἡρακλέους φασὶν εἶναι ἱερά, ἢ διὰ τί τὰς μαλακὰς στρωμνὰς Ἡρακλέους κοίτας εἰώθασι καλεῖν, εἰ κατεφρόνει τῶν ἡδέως ζώντων;
 1	πόθεν	πόθεν	ADV	d--------	_	12	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	u--------	_	4	punct	_	_
-3	ὦ	ὦ	INTJ	i--------	_	4	advmod	_	_
+3	ὦ	ὦ	INTJ	i--------	_	4	discourse	_	_
 4	οὗτοι	οὗτος	PRON	p-p---mv-	Case=Voc|Gender=Masc|Number=Plur	12	vocative	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	4	punct	_	_
 6	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	11	det	_	_
@@ -24259,7 +24259,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@79
 # text = ὦ τέκνον, ποντίου θηρὸς πετραίου χρωτὶ μάλιστα νόον προσφέρων πάσαις πολίεσσιν ὁμίλει·
-1	ὦ	ὦ	INTJ	i--------	_	2	advmod	_	_
+1	ὦ	ὦ	INTJ	i--------	_	2	discourse	_	_
 2	τέκνον	τέκνον	NOUN	n-s---nv-	Case=Voc|Gender=Neut|Number=Sing	13	vocative	_	SpaceAfter=No
 3	,	,	PUNCT	u--------	_	2	punct	_	_
 4	ποντίου	πόντιος	ADJ	a-s---mg-	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
