@@ -16327,7 +16327,7 @@
 17	καταπαλαίσαντα	καταπαλαίω	VERB	v-sapama-	Case=Acc|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	conj	_	_
 18	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	19	det	_	_
 19	ἀνταγωνιστήν	ἀνταγωνιστής	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	17	obj	_	SpaceAfter=No
-20	,	,	PUNCT	u--------	_	21	punct	_	_
+20	,	,	PUNCT	u--------	_	12	punct	_	_
 21	ὥς	ὥς	SCONJ	c--------	_	23	mark	_	_
 22	τις	τις	PRON	p-s---mn-	Case=Nom|Gender=Masc|Number=Sing	23	nsubj	_	_
 23	εἶπεν	εἶπον	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	38	advcl	_	_
@@ -24446,7 +24446,7 @@
 12	δὲ	δέ	CCONJ	c--------	_	6	cc	_	_
 13	ἐν	ἐν	ADP	r--------	_	14	case	_	_
 14	Βαβυλῶνι	Βαβυλών	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
-15	,	,	PUNCT	u--------	_	6	punct	_	SpaceAfter=No
+15	,	,	PUNCT	u--------	_	18	punct	_	SpaceAfter=No
 16	...	...	PUNCT	u--------	_	18	punct	_	_
 17	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	18	det	_	_
 18	λεῖπον	λείπω	VERB	v-sppana-	Case=Acc|Gender=Neut|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	6	vocative	_	_
