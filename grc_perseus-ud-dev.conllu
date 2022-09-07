@@ -13314,7 +13314,7 @@
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@100
 # text = ἔμελλον δέ που καὶ μηδενὸς ἐξελαύνοντος αἱ πολλαὶ τῷ κοινῷ νομίσματι συνεκπεσεῖσθαι, διάθεσιν τῶν ἔργων οὐκ ἐχόντων.
 1	ἔμελλον	μέλλω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	δέ	δέ	ADV	d--------	_	1	aux	_	_
+2	δέ	δέ	ADV	d--------	_	1	advmod	_	_
 3	που	πού	ADV	d--------	_	6	advmod	_	_
 4	καὶ	καί	ADV	d--------	_	6	advmod	_	_
 5	μηδενὸς	μηδείς	PRON	p-s---ng-	Case=Gen|Gender=Neut|Number=Sing	6	nsubj	_	_
@@ -14873,7 +14873,7 @@
 1	τὸ	ὁ	DET	l-s---na-	Case=Acc|Gender=Neut|Number=Sing	3	det	_	_
 2	δὲ	δέ	ADV	d--------	_	6	advmod	_	_
 3	γεννηθὲν	γεννάω	VERB	v-sappna-	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	xcomp	_	_
-4	οὐκ	οὐ	ADV	d--------	_	6	aux	_	_
+4	οὐκ	οὐ	ADV	d--------	_	6	advmod	_	_
 5	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
 6	κύριος	κῦρος	NOUN	n-s---ng-	Case=Gen|Gender=Neut|Number=Sing	0	root	_	_
 7	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	8	det	_	_
@@ -15608,7 +15608,7 @@
 2	δὲ	δέ	ADV	d--------	_	1	advmod	_	_
 3	τοὺς	ὁ	DET	l-p---ma-	Case=Acc|Gender=Masc|Number=Plur	4	det	_	_
 4	παῖδας	παῖς	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	1	obj	_	_
-5	καὶ	καί	ADV	d--------	_	7	aux	_	_
+5	καὶ	καί	ADV	d--------	_	7	advmod	_	_
 6	λόγῳ	λόγος	NOUN	n-s---md-	Case=Dat|Gender=Masc|Number=Sing	7	obj	_	_
 7	χρῆσθαι	χραύω	VERB	v--pne---	Tense=Pres|VerbForm=Inf|Voice=Mid	1	xcomp	_	_
 8	πικρίαν	πικρία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	_
@@ -16654,8 +16654,8 @@
 # sent_id = tlg0007.tlg004.perseus-grc1.tb.xml@349
 # text = καλὸς μέν γάρ ἦν καὶ ἀγαθὸς ὁ Βρασίδας, πολλοὺς δὲ ἄνδρας Λακεδαίμων ἔχει τήνου κάρρονας.
 1	καλὸς	καλός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
-2	μέν	μέν	ADV	d--------	_	1	aux	_	_
-3	γάρ	γάρ	ADV	d--------	_	1	aux	_	_
+2	μέν	μέν	ADV	d--------	_	1	advmod	_	_
+3	γάρ	γάρ	ADV	d--------	_	1	advmod	_	_
 4	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	cop	_	_
 5	καὶ	καί	CCONJ	c--------	_	1	cc	_	_
 6	ἀγαθὸς	ἀγαθός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	conj	_	_

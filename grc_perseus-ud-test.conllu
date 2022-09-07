@@ -6232,7 +6232,7 @@
 16	στολὰς	στολή	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	17	obj	_	_
 17	ἔχοντες	ἔχω	VERB	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	u--------	_	13	punct	_	_
-19	εἶτα	εἶτα	ADV	d--------	_	21	aux	_	_
+19	εἶτα	εἶτα	ADV	d--------	_	21	advmod	_	_
 20	μύριοι	μυρίος	ADJ	a-p---mn-	Case=Nom|Gender=Masc|Number=Plur	21	nmod	_	_
 21	Πέρσαι	Πέρσης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
 22	,	,	PUNCT	u--------	_	23	punct	_	_
@@ -6318,7 +6318,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@676
 # text = ἀναγνωσθείσης δὲ τῆς ἐπιστολῆς Χίοις παρὼν Θεόκριτος ὁ σοφιστὴς νῦν ἐγνωκέναι ἔφη τὸ παῤ Ὁμήρῳ εἰρημένον·
 1	ἀναγνωσθείσης	ἀναγιγνώσκω	VERB	v-sappfg-	Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	_
-2	δὲ	δέ	ADV	d--------	_	12	aux	_	_
+2	δὲ	δέ	ADV	d--------	_	12	advmod	_	_
 3	τῆς	ὁ	DET	l-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	det	_	_
 4	ἐπιστολῆς	ἐπιστολή	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	nsubj	_	_
 5	Χίοις	χῖον	NOUN	n-p---nd-	Case=Dat|Gender=Neut|Number=Plur	1	obj	_	_
@@ -17077,11 +17077,11 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@536
 # text = ἡ δὲ κατανοήσασα ξένον ἄνδρα καὶ καλὸν καὶ ὅμοιον τῷ κατὰ τὸν ὕπνον ἑωραμένῳ περιχαρὴς γενομένη δίδωσιν αὐτῷ τὴν φιάλην·
 1	ἡ	ὁ	DET	l-s---fn-	Case=Nom|Gender=Fem|Number=Sing	17	det	_	_
-2	δὲ	δέ	ADV	d--------	_	17	aux	_	_
+2	δὲ	δέ	ADV	d--------	_	17	advmod	_	_
 3	κατανοήσασα	κατανοέω	VERB	v-sapafn-	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	17	advcl	_	_
 4	ξένον	ξένος	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	nmod	_	_
 5	ἄνδρα	ἀνήρ	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
-6	καὶ	καί	ADV	d--------	_	7	aux	_	_
+6	καὶ	καί	ADV	d--------	_	7	advmod	_	_
 7	καλὸν	καλός	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	_
 8	καὶ	καί	CCONJ	c--------	_	7	cc	_	_
 9	ὅμοιον	ὅμοιος	ADJ	a-s---ma-	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	_
@@ -20442,7 +20442,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@797
 # text = ὁ δ̓ αὐτὸς Ὑπερείδης ἐν τῷ κατὰ Μαντιθέου αἰκίας περὶ Γλυκέρας τάδε λέγει·
 1	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	det	_	_
-2	δ̓	δέ	ADV	d--------	_	13	aux	_	_
+2	δ̓	δέ	ADV	d--------	_	13	advmod	_	_
 3	αὐτὸς	αὐτός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	nmod	_	_
 4	Ὑπερείδης	Ὑπερείδης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	13	nsubj	_	_
 5	ἐν	ἐν	ADP	r--------	_	6	case	_	_
@@ -20501,7 +20501,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@805
 # text = ὁ δὲ γράψας τὸν Ἀγῆνα τὸ σατυρικὸν δραμάτιον, εἴτε Πύθων ἐστὶν ὁ Καταναῖος ἢ αὐτὸς ὁ βασιλεὺς Ἀλέξανδρος, φησίν·
 1	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	3	det	_	_
-2	δὲ	δέ	ADV	d--------	_	21	aux	_	_
+2	δὲ	δέ	ADV	d--------	_	21	advmod	_	_
 3	γράψας	γράφω	VERB	v-sapamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	21	nsubj	_	_
 4	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
 5	Ἀγῆνα	̓Αγῆν	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	_
@@ -20660,7 +20660,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@819
 # text = Ναννίου δὲ Ὑπερείδης μνημονεύει ἐν τῷ κατὰ Πατροκλέους.
 1	Ναννίου	Νάννιον	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	obj	_	_
-2	δὲ	δέ	ADV	d--------	_	4	aux	_	_
+2	δὲ	δέ	ADV	d--------	_	4	advmod	_	_
 3	Ὑπερείδης	Ὑπερείδης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	obj	_	_
 4	μνημονεύει	μνημονεύω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ἐν	ἐν	ADP	r--------	_	6	case	_	_
@@ -22486,7 +22486,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@975
 # text = μνημονεύει δ̓ αὐτῆς Στράττις ἐν τούτοις·
 1	μνημονεύει	μνημονεύω	VERB	v3spia---	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-2	δ̓	δέ	ADV	d--------	_	1	aux	_	_
+2	δ̓	δέ	ADV	d--------	_	1	advmod	_	_
 3	αὐτῆς	αὐτός	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	1	obj	_	_
 4	Στράττις	Στράττις	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	_
 5	ἐν	ἐν	ADP	r--------	_	6	case	_	_
