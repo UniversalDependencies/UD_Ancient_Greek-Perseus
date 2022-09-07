@@ -84,12 +84,12 @@
     <dep name="det">11812</dep>
     <dep name="discourse">374</dep>
     <dep name="iobj">1449</dep>
-    <dep name="mark">2828</dep>
+    <dep name="mark">2810</dep>
     <dep name="nmod">21683</dep>
     <dep name="nsubj">13232</dep>
     <dep name="nummod">202</dep>
     <dep name="obj">17530</dep>
-    <dep name="obl">12415</dep>
+    <dep name="obl">12433</dep>
     <dep name="parataxis">102</dep>
     <dep name="punct">24963</dep>
     <dep name="root">13919</dep>
