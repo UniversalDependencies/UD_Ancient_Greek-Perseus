@@ -7445,8 +7445,8 @@
 21	ἰδιώτας	ἰδιώτης	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	obj	_	_
 22	καὶ	καί	CCONJ	c--------	_	21	cc	_	_
 23	βασιλεῖς	βασιλεύς	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	21	conj	_	SpaceAfter=No
-24	,	,	PUNCT	u--------	_	26	punct	_	_
-25	σώφρων	σώφρων	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	26	xcomp	_	_
+24	,	,	PUNCT	u--------	_	25	punct	_	_
+25	σώφρων	σώφρων	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	_
 26	ὢν	εἰμί	AUX	v-sppamn-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	cop	_	_
 27	καὶ	καί	CCONJ	c--------	_	25	cc	_	_
 28	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	29	det	_	_
@@ -7610,7 +7610,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@754
 # text = εἰ καὶ ἄπιστα κλύουσι, λέγω τάδε·
 1	εἰ	εἰ	SCONJ	c--------	_	4	mark	_	_
-2	καὶ	καί	ADV	d--------	_	1	advmod	_	_
+2	καὶ	καί	ADV	d--------	_	4	advmod	_	_
 3	ἄπιστα	ἄπιστος	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	_
 4	κλύουσι	κλύω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	u--------	_	4	punct	_	_
@@ -7826,7 +7826,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@772
 # text = καὶ ἐν ἄλλοις δὲ φησιν ὁ Ἡγήσανδρος·
-1	καὶ	καί	ADV	d--------	_	2	advmod	_	_
+1	καὶ	καί	ADV	d--------	_	3	advmod	_	_
 2	ἐν	ἐν	ADP	r--------	_	3	case	_	_
 3	ἄλλοις	ἄλλος	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	5	obl	_	_
 4	δὲ	δέ	ADV	d--------	_	5	advmod	_	_
@@ -8884,7 +8884,7 @@
 
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@861
 # text = καὶ γὰρ εἰ παρίεντό τινες τῶν μὴ δυναμένων εἰς ταῦτα ἀναλίσκειν ἀπὸ βραχείας καὶ τῆς τυχούσης ὁρμώμενοι χορηγίας, ὅ γ̓ ἐθισμὸς ἱκανῶς ἦν ἄτοπος.
-1	καὶ	καί	ADV	d--------	_	3	advmod	_	_
+1	καὶ	καί	ADV	d--------	_	4	advmod	_	_
 2	γὰρ	γάρ	ADV	d--------	_	25	advmod	_	_
 3	εἰ	εἰ	SCONJ	c--------	_	4	mark	_	_
 4	παρίεντό	παρίημι	VERB	v3piie---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	25	advcl	_	_
@@ -9770,7 +9770,7 @@
 2	δ̓	δέ	ADV	d--------	_	1	advmod	_	_
 3	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	det	_	_
 4	ἔφοροι	ἔφορος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
-5	καὶ	καί	ADV	d--------	_	6	advmod	_	_
+5	καὶ	καί	ADV	d--------	_	8	advmod	_	_
 6	καθ̓	κατά	ADP	r--------	_	8	case	_	_
 7	ἑκάστην	ἕκαστος	ADJ	a-s---fa-	Case=Acc|Gender=Fem|Number=Sing	8	nmod	_	_
 8	ἡμέραν	ἡμέρα	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	1	obl	_	_
@@ -10776,7 +10776,7 @@
 # sent_id = tlg0008.tlg001.perseus-grc1.12.tb.xml@1022
 # text = ἢ δυοῖν χάριν ταῦτα περιφέρουσιν·
 1	ἢ	ἤ	ADV	d--------	_	5	advmod	_	_
-2	δυοῖν	δύο	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	3	nmod	_	_
+2	δυοῖν	δύο	ADJ	a-d---mg-	Case=Gen|Gender=Masc|Number=Dual	5	nmod	_	_
 3	χάριν	χάριν	ADP	r--------	_	5	case	_	_
 4	ταῦτα	οὗτος	PRON	p-p---na-	Case=Acc|Gender=Neut|Number=Plur	5	obj	_	_
 5	περιφέρουσιν	περιφέρω	VERB	v3ppia---	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
@@ -11316,7 +11316,7 @@
 14	τῶν	ὁ	DET	l-p---fg-	Case=Gen|Gender=Fem|Number=Plur	15	det	_	_
 15	συνόδων	σύνοδος	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	10	nsubj	_	_
 16	καὶ	καί	CCONJ	c--------	_	10	cc	_	_
-17	κοινογαμίων	κοινογαμία	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	18	nsubj	_	_
+17	κοινογαμίων	κοινογαμία	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	10	nsubj	_	_
 18	ὄντων	εἰμί	AUX	v-pppang-	Case=Gen|Gender=Neut|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	10	cop	_	SpaceAfter=No
 19	.	.	PUNCT	u--------	_	8	punct	_	_
 
@@ -16802,12 +16802,12 @@
 9	Ἀσίαν	̓Ασία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	_
 10	γυναικῶν	γυνή	NOUN	n-p---fg-	Case=Gen|Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
 11	,	,	PUNCT	u--------	_	12	punct	_	_
-12	καὶ	καί	ADV	d--------	_	16	advmod	_	_
+12	καὶ	καί	ADV	d--------	_	5	advmod	_	_
 13	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	14	det	_	_
-14	Ζαριάδρης	Ζαριάδρης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	_
+14	Ζαριάδρης	Ζαριάδρης	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
 15	δὲ	δέ	CCONJ	c--------	_	5	cc	_	_
 16	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
-17	καλός	καλός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	16	xcomp	_	SpaceAfter=No
+17	καλός	καλός	ADJ	a-s---mn-	Case=Nom|Gender=Masc|Number=Sing	5	xcomp	_	SpaceAfter=No
 18	.	.	PUNCT	u--------	_	5	punct	_	_
 
 # sent_id = tlg0008.tlg001.perseus-grc1.13.tb.xml@523

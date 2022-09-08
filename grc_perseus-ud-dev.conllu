@@ -567,7 +567,7 @@
 6	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	7	det	_	_
 7	νησιῶται	νησιώτης	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	SpaceAfter=No
 8	,	,	PUNCT	u--------	_	9	punct	_	_
-9	Κᾶρές	Κάρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	11	xcomp	_	_
+9	Κᾶρές	Κάρ	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	4	xcomp	_	_
 10	τε	τε	ADV	d--------	_	9	advmod	_	_
 11	ὄντες	εἰμί	AUX	v-pppamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	cop	_	_
 12	καὶ	καί	CCONJ	c--------	_	9	cc	_	_
@@ -4046,21 +4046,21 @@
 20	νεκρούς	νεκρός	NOUN	n-p---ma-	Case=Acc|Gender=Masc|Number=Plur	18	conj	_	SpaceAfter=No
 21	,	,	PUNCT	u--------	_	22	punct	_	_
 22	καὶ	καί	CCONJ	c--------	_	6	cc	_	_
-23	ὅτι	ὅτι	SCONJ	c--------	_	38	mark	_	_
+23	ὅτι	ὅτι	SCONJ	c--------	_	6	mark	_	_
 24	αὐτοῖς	αὐτός	PRON	p-p---md-	Case=Dat|Gender=Masc|Number=Plur	29	iobj	_	_
 25	τῇ	ὁ	DET	l-s---fd-	Case=Dat|Gender=Fem|Number=Sing	27	det	_	_
-26	τε	τε	ADV	d--------	_	38	advmod	_	_
+26	τε	τε	ADV	d--------	_	6	advmod	_	_
 27	προτεραίᾳ	προτεραῖος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	29	advmod	_	_
 28	πρύμναν	πρύμνα	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
 29	κρουόμενοι	κρούω	VERB	v-pppemn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Mid	30	advcl	_	_
-30	ὑπεχώρησαν	ὑποχωρέω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	38	advcl	_	_
+30	ὑπεχώρησαν	ὑποχωρέω	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
 31	οἱ	ὁ	DET	l-p---mn-	Case=Nom|Gender=Masc|Number=Plur	32	det	_	_
 32	Κορίνθιοι	Κορίνθιος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	30	nsubj	_	_
 33	ἰδόντες	εἶδον	VERB	v-papamn-	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	30	advcl	_	_
 34	τὰς	ὁ	DET	l-p---fa-	Case=Acc|Gender=Fem|Number=Plur	36	det	_	_
 35	Ἀττικὰς	Ἀττικός	ADJ	a-p---fa-	Case=Acc|Gender=Fem|Number=Plur	36	nmod	_	_
 36	ναῦς	ναῦς	NOUN	n-p---fa-	Case=Acc|Gender=Fem|Number=Plur	33	obj	_	SpaceAfter=No
-37	,	,	PUNCT	u--------	_	30	punct	_	_
+37	,	,	PUNCT	u--------	_	38	punct	_	_
 38	καὶ	καί	CCONJ	c--------	_	6	cc	_	_
 39	ἐπειδὴ	ἐπεί	CCONJ	c--------	_	40	mark	_	_
 40	ἦλθον	ἔρχομαι	VERB	v3paia---	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	45	advcl	_	_
@@ -4068,7 +4068,7 @@
 42	Ἀθηναῖοι	Ἀθηναῖος	NOUN	n-p---mn-	Case=Nom|Gender=Masc|Number=Plur	40	nsubj	_	SpaceAfter=No
 43	,	,	PUNCT	u--------	_	40	punct	_	_
 44	οὐκ	οὐ	ADV	d--------	_	45	advmod	_	_
-45	ἀντεπέπλεον	ἀντί-ἐπιπλέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	38	advcl	_	_
+45	ἀντεπέπλεον	ἀντί-ἐπιπλέω	VERB	v3piia---	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
 46	ἐκ	ἐκ	ADP	r--------	_	48	case	_	_
 47	τῶν	ὁ	DET	l-p---ng-	Case=Gen|Gender=Neut|Number=Plur	48	det	_	_
 48	Συβότων	Σύβοτα	NOUN	n-p---ng-	Case=Gen|Gender=Neut|Number=Plur	45	obl	_	SpaceAfter=No
@@ -12243,7 +12243,7 @@
 # text = ὑφ̓ ἧς καὶ τὸν πατέρα τοῦ Λυκούργου βασιλεύοντα συνέβη τελευτῆσαι.
 1	ὑφ̓	ὑπό	ADP	r--------	_	2	case	_	_
 2	ἧς	ὅς	PRON	p-s---fg-	Case=Gen|Gender=Fem|Number=Sing	9	obl	_	_
-3	καὶ	καί	ADV	d--------	_	1	advmod	_	_
+3	καὶ	καί	ADV	d--------	_	2	advmod	_	_
 4	τὸν	ὁ	DET	l-s---ma-	Case=Acc|Gender=Masc|Number=Sing	5	det	_	_
 5	πατέρα	πατήρ	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	10	nsubj	_	_
 6	τοῦ	ὁ	DET	l-s---mg-	Case=Gen|Gender=Masc|Number=Sing	7	det	_	_
@@ -12298,7 +12298,7 @@
 # text = καὶ πρίν γε τὴν γυναῖκα τοῦ ἀδελφοῦ φανερὰν γενέσθαι κύουσαν ἐβασίλευεν.
 1	καὶ	καί	ADV	d--------	_	11	advmod	_	_
 2	πρίν	πρίν	SCONJ	c--------	_	9	mark	_	_
-3	γε	γε	ADV	d--------	_	2	advmod	_	_
+3	γε	γε	ADV	d--------	_	9	advmod	_	_
 4	τὴν	ὁ	DET	l-s---fa-	Case=Acc|Gender=Fem|Number=Sing	5	det	_	_
 5	γυναῖκα	γυνή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	9	nsubj	_	_
 6	τοῦ	ὁ	DET	l-p---mg-	Case=Gen|Gender=Masc|Number=Plur	7	det	_	_
@@ -13864,11 +13864,11 @@
 4	κυριώτατα	κύριος	ADJ	a-p---nas	Case=Acc|Degree=Sup|Gender=Neut|Number=Plur	24	nsubj	_	_
 5	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
 6	μέγιστα	μέγας	ADJ	a-p---na-	Case=Acc|Gender=Neut|Number=Plur	4	conj	_	_
-7	πρὸς	πρός	ADP	r--------	_	10	case	_	_
-8	εὐδαιμονίαν	εὐδαιμονία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	_
-9	πόλεως	πόλις	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	10	nmod	_	_
+7	πρὸς	πρός	ADP	r--------	_	4	case	_	_
+8	εὐδαιμονίαν	εὐδαιμονία	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	_
+9	πόλεως	πόλις	NOUN	n-s---fg-	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	_
 10	καὶ	καί	CCONJ	c--------	_	4	cc	_	_
-11	ἀρετήν	ἀρετή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
+11	ἀρετήν	ἀρετή	NOUN	n-s---fa-	Case=Acc|Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 12	,	,	PUNCT	u--------	_	4	punct	_	_
 13	ἐν	εἰς	ADP	r--------	_	15	case	_	_
 14	τοῖς	ὁ	DET	l-p---md-	Case=Dat|Gender=Masc|Number=Plur	15	det	_	_
