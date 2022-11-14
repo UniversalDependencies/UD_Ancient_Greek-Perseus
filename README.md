@@ -100,6 +100,11 @@ The Ancient Greek and Latin Dependency treebank 2.0. https://github.com/PerseusD
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed adverbially used nominals from advmod to obl.
+  * Fixed adverbially used verbs from advmod to advcl.
+  * Fixed interjections from advmod to discourse.
+  * Fixed UPOS tags of copulae: from VERB to AUX.
 * 2021-05-15 v2.8
   * Fixed non-projective punctuation using Udapi ud.FixPunct.
 * 2018-04-15 v2.2
