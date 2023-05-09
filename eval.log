@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Ancient_Greek-Perseus:
-commit 1c96bb63efd31c19d12f04fd654acc60d7461472
-Merge: eb85871 9003ca4
+commit feb90dbea3fc04e14ced69732e229e87e0691394
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 14 09:56:41 2022 +0100
 Size: counted 202989 of 202989 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.626303580763.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -24,33 +24,33 @@ Udapi:
 Udapi: found 30274 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 202989 words.
 Genres: found 1 out of 17 known.
-validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
-[Line 15635 Sent tlg0007.tlg004.perseus-grc1.tb.xml@255 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 14]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 17673 Sent tlg0007.tlg004.perseus-grc1.tb.xml@419 Node 7]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 21090 Sent tlg0007.tlg015.perseus-grc1.tb.xml@258 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
+[Line 15635 Sent tlg0007.tlg004.perseus-grc1.tb.xml@255 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [7, 14] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 17673 Sent tlg0007.tlg004.perseus-grc1.tb.xml@419 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [3, 13] not subtyped as ':outer'.
+[Line 21090 Sent tlg0007.tlg015.perseus-grc1.tb.xml@258 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [3, 9] not subtyped as ':outer'.
 Syntax errors: 3
 *** FAILED *** with 3 errors
 Exit code: 1
-validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
-[Line 1419 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@293 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 17]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 2692 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@398 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 10]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 3020 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@417 Node 26]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 25]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 11312 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@8 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [15, 17]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 16798 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@522 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 14]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 23635 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1053 Node 8]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
+[Line 1419 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@293 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [6, 17] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 2692 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@398 Node 11]: [L3 Syntax too-many-subjects] Multiple subjects [7, 10] not subtyped as ':outer'.
+[Line 3020 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@417 Node 26]: [L3 Syntax too-many-subjects] Multiple subjects [6, 25] not subtyped as ':outer'.
+[Line 11312 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@8 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [15, 17] not subtyped as ':outer'.
+[Line 16798 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@522 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [4, 14] not subtyped as ':outer'.
+[Line 23635 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1053 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [7, 11] not subtyped as ':outer'.
 Syntax errors: 6
 *** FAILED *** with 6 errors
 Exit code: 1
-validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
-[Line 14775 Sent tlg0011.tlg002.perseus-grc2.tb.xml@2900590 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 24760 Sent tlg0011.tlg004.perseus-grc1.tb.xml@2386758 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 35325 Sent tlg0011.tlg005.perseus-grc2.tb.xml@2899835 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 5]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 35376 Sent tlg0011.tlg005.perseus-grc2.tb.xml@2899840 Node 2]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 6]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 42359 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277245 Node 1]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 47649 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277787 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 18]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 48540 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277868 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [7, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 52849 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2278241 Node 4]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 9]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 85174 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2274566 Node 3]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
+[Line 14775 Sent tlg0011.tlg002.perseus-grc2.tb.xml@2900590 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [5, 8] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 24760 Sent tlg0011.tlg004.perseus-grc1.tb.xml@2386758 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [5, 7] not subtyped as ':outer'.
+[Line 35325 Sent tlg0011.tlg005.perseus-grc2.tb.xml@2899835 Node 6]: [L3 Syntax too-many-subjects] Multiple subjects [4, 5] not subtyped as ':outer'.
+[Line 35376 Sent tlg0011.tlg005.perseus-grc2.tb.xml@2899840 Node 2]: [L3 Syntax too-many-subjects] Multiple subjects [1, 6] not subtyped as ':outer'.
+[Line 42359 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277245 Node 1]: [L3 Syntax too-many-subjects] Multiple subjects [5, 13] not subtyped as ':outer'.
+[Line 47649 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277787 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [1, 18] not subtyped as ':outer'.
+[Line 48540 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2277868 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [7, 11] not subtyped as ':outer'.
+[Line 52849 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2278241 Node 4]: [L3 Syntax too-many-subjects] Multiple subjects [6, 9] not subtyped as ':outer'.
+[Line 85174 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2274566 Node 3]: [L3 Syntax too-many-subjects] Multiple subjects [1, 8] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 29
 *** FAILED *** with 29 errors
