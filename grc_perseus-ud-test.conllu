@@ -2997,7 +2997,7 @@
 3	με	ἐγώ	PRON	p1s---ma-	Case=Acc|Gender=Masc|Number=Sing|Person=1	9	obj	_	_
 4	ὁ	ὁ	DET	l-s---mn-	Case=Nom|Gender=Masc|Number=Sing	6	det	_	_
 5	ταύτῃ	οὗτος	ADJ	a-s---fd-	Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	_
-6	βίος	βίος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	26	nsubj	_	_
+6	βίος	βίος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
 7	οὐδαμῇ	οὐδαμῇ	ADV	d--------	_	9	advmod	_	_
 8	οὐδαμῶς	οὐδαμῶς	ADV	d--------	_	9	advmod	_	_
 9	ἤρεσεν	ἀρέσκω	VERB	v3saia---	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No

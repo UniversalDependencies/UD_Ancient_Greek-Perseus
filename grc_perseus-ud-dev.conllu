@@ -21092,9 +21092,9 @@
 6	προχωρεῖν	προχωρέω	VERB	v--pna---	Tense=Pres|VerbForm=Inf|Voice=Act	4	conj	_	_
 7	δἰ	διά	ADP	r--------	_	8	case	_	_
 8	Ἀλκιβιάδην	Ἀλκιβιάδης	NOUN	n-s---ma-	Case=Acc|Gender=Masc|Number=Sing	4	obl	_	_
-9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	4	root	_	_
+9	λόγος	λόγος	NOUN	n-s---mn-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 10	ἦν	εἰμί	AUX	v3siia---	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	9	cop	_	SpaceAfter=No
-11	·	·	PUNCT	u--------	_	4	punct	_	_
+11	·	·	PUNCT	u--------	_	9	punct	_	_
 
 # sent_id = tlg0007.tlg015.perseus-grc1.tb.xml@259
 # text = τῶν δ̓ ἄλλων Σπαρτιατῶν οἱ δυνατώτατοι καὶ φιλοτιμότατοι τὸν Ἀλκιβιάδην ἤδη ἐβαρύνοντο διὰ φθόνον.
