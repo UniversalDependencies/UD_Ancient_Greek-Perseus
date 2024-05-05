@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Ancient_Greek-Perseus:
-commit ca1f1edf3cd6cf1c1c9070cb6a81fc5e598d5511
-Merge: 8587ab0 5254b27
+commit d49bf67f7a9321d9102b29f1867d023c20882cd0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 11:26:32 2023 +0100
 Size: counted 202989 of 202989 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.626303580763.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -38,6 +38,7 @@ Genres: found 1 out of 17 known.
 [Line 147408 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@683 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [4, 16] not subtyped as ':outer'.
 [Line 148793 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@779 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [15, 19] not subtyped as ':outer'.
 [Line 151278 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@936 Node 1]: [L3 Syntax too-many-subjects] Multiple subjects [6, 25] not subtyped as ':outer'.
+[Line 152100 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@989 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [12, 32] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
 Syntax errors: 20
 *** FAILED *** with 20 errors
