@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Ancient_Greek-Perseus:
-commit d8b7404dc8e790dac99d8a99a47a88c81ec25748
+commit 8974bf178111b6f32693da84375a1b01796c9ada
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 11:49:20 2024 +0200
+Date:   Mon Nov 11 14:56:53 2024 +0100
 Size: counted 202989 of 202989 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.626303580763.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,74 +20,64 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 27 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL      30256
-Udapi: found 30256 bugs.
+               TOTAL      25322
+Udapi: found 25322 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 202989 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
-[Line 7 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3 Node 1]: [L3 Warning leaf-det] 'det' not expected to have children (1:τὰ:det --> 4:αὐτῶν:nmod)
-[Line 79 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@8 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:τοῦ:det --> 7:πλεῖστον:amod)
-[Line 220 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:τοὺς:det --> 19:Ἀχιλλέως:nmod)
-[Line 223 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:τοὺς:det --> 22:Φθιώτιδος:nmod)
-[Line 228 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:τοὺς:det --> 27:Ἕλληνες:acl)
-[Line 714 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:τὰ:det --> 8:οἷα:nsubj)
-[Line 715 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:τὰ:det --> 9:ἦν:cop)
-[Line 718 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:τὰ:det --> 12:αὐτῆς:nmod)
-[Line 734 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@52 Node 11]: [L3 Warning leaf-det] 'det' not expected to have children (11:τῶν:det --> 12:τότε:nmod)
-[Line 873 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@65 Node 17]: [L3 Warning leaf-det] 'det' not expected to have children (17:τῶν:det --> 18:πρὶν:nmod)
-...suppressing further errors regarding Warning
-Warnings: 101
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
-[Line 582 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@231 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:τῷ:det --> 7:Σπουδῆς:nmod)
-[Line 644 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:τῶν:det --> 6:Ἰταλίας:nmod)
-[Line 649 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235 Node 9]: [L3 Warning leaf-det] 'det' not expected to have children (9:τῶν:det --> 11:ἕωθεν:nmod)
-[Line 1368 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@290 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:τῷ:det --> 8:Δικαιοσύνης:nmod)
-[Line 2180 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@353 Node 27]: [L3 Warning leaf-det] 'det' not expected to have children (27:οἱ:det --> 26:ἔθνους:nmod)
-[Line 2251 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:τῷ:det --> 9:Ἀλκιβιάδου:nmod)
-[Line 2252 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:τῷ:det --> 10:λοιδορίας:nmod)
-[Line 3113 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@425 Node 3]: [L3 Warning leaf-det] 'det' not expected to have children (3:τῇ:det --> 4:λἀ:nmod)
-[Line 3542 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@465 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:τῶν:det --> 8:Ἀλέξανδρον:nmod)
-[Line 3756 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@479 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:τῷ:det --> 11:πρώτῳ:amod)
-...suppressing further errors regarding Warning
-Warnings: 119
-*** PASSED ***
-/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
-[Line 500 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1185 Node 6]: [L3 Warning leaf-det] 'det' not expected to have children (6:τῶν:det --> 9:θηλείαις:amod)
-[Line 661 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1194 Node 13]: [L3 Warning leaf-det] 'det' not expected to have children (13:τῷ:det --> 15:Ἐρωτικῶν:amod)
-[Line 700 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1197 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:τῶν:det --> 8:Χαρίτωνα:nmod)
-[Line 842 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1212 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:τὰ:det --> 7:Κρατῖνον:nmod)
-[Line 959 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1221 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:τῷ:det --> 9:Θυσίας:nmod)
-[Line 2074 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1303 Node 14]: [L3 Warning leaf-det] 'det' not expected to have children (14:τῷ:det --> 16:Ἀγαλματοποιῶν:nmod)
-[Line 2712 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1348 Node 7]: [L3 Warning leaf-det] 'det' not expected to have children (7:τῷ:det --> 9:Ζήνωνος:nmod)
-[Line 3026 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1369 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:αἱ:det --> 4:αὐτῶν:nmod)
-[Line 3557 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1415 Node 5]: [L3 Warning leaf-det] 'det' not expected to have children (5:τῶν:det --> 6:Στησιχόρου:nmod)
-[Line 3634 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1422 Node 4]: [L3 Warning leaf-det] 'det' not expected to have children (4:τῇ:det --> 5:τρίτῃ:amod)
-...suppressing further errors regarding Warning
-[Line 110040 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2282450 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [4, 8] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 121341 Sent tlg0012.tlg001.perseus-grc1.tb.xml@2275814 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 7] not subtyped as ':outer'.
-[Line 135890 Sent tlg0013.tlg002.perseus-grc1.tb.xml@84 Node 23]: [L3 Syntax too-many-subjects] Multiple subjects [1, 18] not subtyped as ':outer'.
-[Line 138372 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@86 Node 9]: [L3 Syntax too-many-subjects] Multiple subjects [11, 24] not subtyped as ':outer'.
-[Line 141260 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@287 Node 22]: [L3 Syntax too-many-subjects] Multiple subjects [16, 23] not subtyped as ':outer'.
-[Line 141931 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@324 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [10, 13] not subtyped as ':outer'.
-[Line 147408 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@683 Node 8]: [L3 Syntax too-many-subjects] Multiple subjects [4, 16] not subtyped as ':outer'.
-[Line 148793 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@779 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [15, 19] not subtyped as ':outer'.
-[Line 151278 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@936 Node 1]: [L3 Syntax too-many-subjects] Multiple subjects [6, 25] not subtyped as ':outer'.
-[Line 152100 Sent tlg0016.tlg001.perseus-grc1.1.tb.xml@989 Node 18]: [L3 Syntax too-many-subjects] Multiple subjects [12, 32] not subtyped as ':outer'.
+[Line 7 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3 Node 1]: [L3 Syntax leaf-det] 'det' not expected to have children (1:τὰ:det --> 4:αὐτῶν:nmod)
+[Line 79 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@8 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τοῦ:det --> 7:πλεῖστον:amod)
+[Line 220 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 19:Ἀχιλλέως:nmod)
+[Line 223 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 22:Φθιώτιδος:nmod)
+[Line 228 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 27:Ἕλληνες:acl)
+[Line 714 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 8:οἷα:nsubj)
+[Line 715 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 9:ἦν:cop)
+[Line 718 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 12:αὐτῆς:nmod)
+[Line 734 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@52 Node 11]: [L3 Syntax leaf-det] 'det' not expected to have children (11:τῶν:det --> 12:τότε:nmod)
+[Line 873 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@65 Node 17]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τῶν:det --> 18:πρὶν:nmod)
 ...suppressing further errors regarding Syntax
-Syntax errors: 20
-Warnings: 152
-*** FAILED *** with 20 errors
+Syntax errors: 101
+*** FAILED *** with 101 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
+[Line 582 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@231 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τῷ:det --> 7:Σπουδῆς:nmod)
+[Line 644 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235 Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:τῶν:det --> 6:Ἰταλίας:nmod)
+[Line 649 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235 Node 9]: [L3 Syntax leaf-det] 'det' not expected to have children (9:τῶν:det --> 11:ἕωθεν:nmod)
+[Line 1368 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@290 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:τῷ:det --> 8:Δικαιοσύνης:nmod)
+[Line 2180 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@353 Node 27]: [L3 Syntax leaf-det] 'det' not expected to have children (27:οἱ:det --> 26:ἔθνους:nmod)
+[Line 2251 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τῷ:det --> 9:Ἀλκιβιάδου:nmod)
+[Line 2252 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τῷ:det --> 10:λοιδορίας:nmod)
+[Line 3113 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@425 Node 3]: [L3 Syntax leaf-det] 'det' not expected to have children (3:τῇ:det --> 4:λἀ:nmod)
+[Line 3542 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@465 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:τῶν:det --> 8:Ἀλέξανδρον:nmod)
+[Line 3756 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@479 Node 10]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τῷ:det --> 11:πρώτῳ:amod)
+...suppressing further errors regarding Syntax
+Syntax errors: 119
+*** FAILED *** with 119 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
+[Line 500 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1185 Node 6]: [L3 Syntax leaf-det] 'det' not expected to have children (6:τῶν:det --> 9:θηλείαις:amod)
+[Line 661 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1194 Node 13]: [L3 Syntax leaf-det] 'det' not expected to have children (13:τῷ:det --> 15:Ἐρωτικῶν:amod)
+[Line 700 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1197 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τῶν:det --> 8:Χαρίτωνα:nmod)
+[Line 842 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1212 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τὰ:det --> 7:Κρατῖνον:nmod)
+[Line 959 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1221 Node 4]: [L3 Syntax leaf-det] 'det' not expected to have children (4:τῷ:det --> 9:Θυσίας:nmod)
+[Line 2074 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1303 Node 14]: [L3 Syntax leaf-det] 'det' not expected to have children (14:τῷ:det --> 16:Ἀγαλματοποιῶν:nmod)
+[Line 2712 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1348 Node 7]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τῷ:det --> 9:Ζήνωνος:nmod)
+[Line 3026 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1369 Node 2]: [L3 Syntax leaf-det] 'det' not expected to have children (2:αἱ:det --> 4:αὐτῶν:nmod)
+[Line 3557 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1415 Node 5]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τῶν:det --> 6:Στησιχόρου:nmod)
+[Line 3634 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1422 Node 4]: [L3 Syntax leaf-det] 'det' not expected to have children (4:τῇ:det --> 5:τρίτῃ:amod)
+...suppressing further errors regarding Syntax
+Syntax errors: 172
+*** FAILED *** with 172 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
 (weight=0.256410256410256) * (score{size}=0.769157501359021) = 0.197219872143339
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.583783783783784) = 0.0449064449064449
-(TOTAL score=0.478385743897446) * (availability=1) * (validity=0.01) = 0.00478385743897446
+(TOTAL score=0.478134361293122) * (availability=1) * (validity=0.01) = 0.00478134361293122
 STARS = 0
-UD_Ancient_Greek-Perseus	0.00478385743897446	0
+UD_Ancient_Greek-Perseus	0.00478134361293122	0
