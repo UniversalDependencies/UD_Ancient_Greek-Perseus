@@ -1,7 +1,118 @@
-Usage:   perl -I ./tools ./tools/evaluate_treebank.pl <ud-treebank-name>
-Example: perl -I ./tools ./tools/evaluate_treebank.pl UD_Czech-PDTC
-Before running, make sure the current folder is one level above the clones of UD GitHub repositories.
-Specifically, the subfolders should include the evaluated treebank(s), as well as the tools folder,
-from which this script is invoked and which also holds the validator.
-$0 == tools/evaluate_treebank.pl
-The script must be invoked using relative path (starting with a dot) from the superordinate folder at tools/evaluate_treebank.pl line 40.
+Running the following version of UD tools:
+commit 26e6c87a2f518322d15901a351199b6be6569062
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Fri Nov 7 15:39:58 2025 +0100
+Evaluating the following revision of UD_Ancient_Greek-Perseus:
+commit c5e63fbb324362da00a04a93dffb56a2ef3ff7d7
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 18:38:46 2025 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'grc_perseus'
+Language code (from CoNLL-U file name) = 'grc'
+Found the following data files: grc_perseus-ud-dev.conllu, grc_perseus-ud-test.conllu, grc_perseus-ud-train.conllu
+Size: counted 202989 of 202989 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.626303580763.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.8.
+Universal POS tags: 15 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 124893 out of 202989 total words have one or more features.
+Features: source of annotation (from README) factor is 0.8.
+Universal relations: 27 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Genres: found 1 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-dev.conllu
+[Line 4 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'τὰ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 7 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Syntax leaf-det] 'det' not expected to have children (1:τὰ:det --> 4:αὐτῶν:nmod)
+[Line 7 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'αὐτῶν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 9 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'τὰ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 24 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'ὧν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 28 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'μοι' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 37 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'τοὺς' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'τὰ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 42 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@3]: [L3 Warning pron-det-without-prontype] The word 'ἄλλα' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 51 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@7]: [L3 Warning pron-det-without-prontype] The word 'αἵ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 54 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@7]: [L3 Warning pron-det-without-prontype] The word 'τισὶ' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 79 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@8]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τοῦ:det --> 7:πλεῖστον:amod)
+[Line 220 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 19:Ἀχιλλέως:nmod)
+[Line 223 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 22:Φθιώτιδος:nmod)
+[Line 228 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@15]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τοὺς:det --> 27:Ἕλληνες:acl)
+[Line 714 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 8:οἷα:nsubj)
+[Line 715 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 9:ἦν:cop)
+[Line 718 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@51]: [L3 Syntax leaf-det] 'det' not expected to have children (10:τὰ:det --> 12:αὐτῆς:nmod)
+[Line 734 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@52]: [L3 Syntax leaf-det] 'det' not expected to have children (11:τῶν:det --> 12:τότε:nmod)
+[Line 873 Sent tlg0003.tlg001.perseus-grc1.1.tb.xml@65]: [L3 Syntax leaf-det] 'det' not expected to have children (17:τῶν:det --> 18:πρὶν:nmod)
+...suppressing further errors regarding Syntax
+Syntax errors: 117
+Warnings: 3920
+*** FAILED *** with 117 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-test.conllu
+[Line 7 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'οὗτοι' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 8 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'τὸν' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 9 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'αὐτὸν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 11 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'τοῖς' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 15 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'τὰ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 20 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@197]: [L3 Warning pron-det-without-prontype] The word 'ταῖς' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 27 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198]: [L3 Warning pron-det-without-prontype] The word 'οὐδὲν' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 34 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198]: [L3 Warning pron-det-without-prontype] The word 'αὐτοὺς' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 36 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198]: [L3 Warning pron-det-without-prontype] The word 'τῷ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 38 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@198]: [L3 Warning pron-det-without-prontype] The word 'τι' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 582 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@231]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τῷ:det --> 7:Σπουδῆς:nmod)
+[Line 644 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235]: [L3 Syntax leaf-det] 'det' not expected to have children (3:τῶν:det --> 6:Ἰταλίας:nmod)
+[Line 649 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@235]: [L3 Syntax leaf-det] 'det' not expected to have children (9:τῶν:det --> 11:ἕωθεν:nmod)
+[Line 1368 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@290]: [L3 Syntax leaf-det] 'det' not expected to have children (6:τῷ:det --> 8:Δικαιοσύνης:nmod)
+[Line 1917 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@339]: [L3 Syntax too-many-objects] Multiple direct objects [8, 10] ('αὐτοὺς', 'μαντείου') under the predicate 'ἀπήλαυνεν'.
+[Line 2076 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@350]: [L3 Syntax too-many-objects] Multiple direct objects [13, 16] ('γυναῖκας', 'σώματα') under the predicate 'ἐποίκιλλον'.
+[Line 2180 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@353]: [L3 Syntax leaf-det] 'det' not expected to have children (27:οἱ:det --> 26:ἔθνους:nmod)
+[Line 2251 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τῷ:det --> 9:Ἀλκιβιάδου:nmod)
+[Line 2252 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@364]: [L3 Syntax leaf-det] 'det' not expected to have children (7:τῷ:det --> 10:λοιδορίας:nmod)
+[Line 3113 Sent tlg0008.tlg001.perseus-grc1.12.tb.xml@425]: [L3 Syntax leaf-det] 'det' not expected to have children (3:τῇ:det --> 4:λἀ:nmod)
+...suppressing further errors regarding Syntax
+Syntax errors: 143
+Warnings: 3539
+*** FAILED *** with 143 errors
+Exit code: 1
+/net/work/people/zeman/unidep/tools/validate.py --lang grc --max-err=10 UD_Ancient_Greek-Perseus/grc_perseus-ud-train.conllu
+[Line 33 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1146]: [L3 Warning pron-det-without-prontype] The word 'ἡ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 63 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1149]: [L3 Warning pron-det-without-prontype] The word 'ἡ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 82 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1150]: [L3 Warning pron-det-without-prontype] The word 'τοὺς' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 94 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1150]: [L3 Warning pron-det-without-prontype] The word 'ἡμᾶς' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 102 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151]: [L3 Warning pron-det-without-prontype] The word 'τὴν' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 108 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151]: [L3 Warning pron-det-without-prontype] The word 'τὸ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 115 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151]: [L3 Warning pron-det-without-prontype] The word 'τὴν' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 120 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1151]: [L3 Warning pron-det-without-prontype] The word 'τοῦ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 128 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1152]: [L3 Warning pron-det-without-prontype] The word 'ἡ' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 130 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1152]: [L3 Warning pron-det-without-prontype] The word 'ἡ' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further errors regarding Warning
+[Line 500 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1185]: [L3 Syntax leaf-det] 'det' not expected to have children (6:τῶν:det --> 9:θηλείαις:amod)
+[Line 661 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1194]: [L3 Syntax leaf-det] 'det' not expected to have children (13:τῷ:det --> 15:Ἐρωτικῶν:amod)
+[Line 700 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1197]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τῶν:det --> 8:Χαρίτωνα:nmod)
+[Line 702 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1197]: [L3 Syntax too-many-objects] Multiple direct objects [12, 14] ('ἑξαμέτρου', 'πεντάμετρον') under the predicate 'προτάξας'.
+[Line 842 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1212]: [L3 Syntax leaf-det] 'det' not expected to have children (5:τὰ:det --> 7:Κρατῖνον:nmod)
+[Line 959 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1221]: [L3 Syntax leaf-det] 'det' not expected to have children (4:τῷ:det --> 9:Θυσίας:nmod)
+[Line 1474 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1259]: [L3 Syntax too-many-objects] Multiple direct objects [11, 14] ('κύλικα', 'στόματος') under the predicate 'ἦγεν'.
+[Line 2074 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1303]: [L3 Syntax leaf-det] 'det' not expected to have children (14:τῷ:det --> 16:Ἀγαλματοποιῶν:nmod)
+[Line 2447 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1329]: [L3 Syntax too-many-objects] Multiple direct objects [6, 7] ('αὐτὸ', 'γάλακτος') under the predicate 'ἐμπλήσειεν'.
+[Line 2499 Sent tlg0008.tlg001.perseus-grc1.13.tb.xml@1331]: [L3 Syntax too-many-objects] Multiple direct objects [17, 19] ('βρέφους', 'μυίας') under the predicate 'ἀπεσόβει'.
+...suppressing further errors regarding Syntax
+Syntax errors: 732
+Warnings: 17109
+*** FAILED *** with 732 errors
+Exit code: 1
+Validity: 0.01
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.769157501359021) = 0.284873148651489
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
+(weight=0.111111111111111) * (score{udeprels}=0.583783783783784) = 0.0648648648648649
+(TOTAL score=0.686194077423399) * (availability=1) * (validity=0.01) = 0.00686194077423399
+STARS = 0
+UD_Ancient_Greek-Perseus	0.00686194077423399	0
